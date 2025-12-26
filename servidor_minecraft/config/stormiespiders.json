@@ -1,0 +1,6 @@
+{
+  "general": {
+    "prevent_climbing_in_rain": false,
+    "disable_data_sync": false
+  }
+}

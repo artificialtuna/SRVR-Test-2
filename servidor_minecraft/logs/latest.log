@@ -1,0 +1,1574 @@
+[19:30:30] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.18.2
+[19:30:40] [ForkJoinPool-1-worker-3/WARN]: Mod mr_vanilla_refresh uses the version 1.4.27a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '27a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:30:42] [main/WARN]: Warnings were found!
+ - Mod 'Horse Expert' (horseexpert) 21.4.1 recommends any version of accessories, which is missing!
+	 - You should install any version of accessories for the optimal experience.
+ - Mod 'Immersive Snow' (immersivesnow) 1.4.0 recommends any version of betterdays, which is missing!
+	 - You should install any version of betterdays for the optimal experience.
+ - Mod 'Immersive Snow' (immersivesnow) 1.4.0 recommends any version of snowrealmagic, which is missing!
+	 - You should install any version of snowrealmagic for the optimal experience.
+ - Mod 'Immersive Snow' (immersivesnow) 1.4.0 recommends any version of seasons, which is missing!
+	 - You should install any version of seasons for the optimal experience.
+[19:30:42] [main/INFO]: Loading 387 mods:
+	- abseil 1.1.0
+	- achiopt 2.0.0
+	- addonslib 1.21.4-1.2
+	- almanac 1.4.4
+	- animal_feeding_trough 1.1.4+1.21.4
+	- animalgarden_owl 0.110.5
+	- animalgarden_porcupine 1.0.0
+	- appleskin 3.0.6+mc1.21.3
+	- architectury 15.0.3
+	- async 0.1.7+alpha.7-1.21.4
+	   |-- com_electronwill_night-config_core 3.8.1
+	   |-- com_electronwill_night-config_toml 3.8.1
+	   \-- mixinsquared 0.3.3
+	- awesomedungeon 3.2.0
+	- awesomedungeonocean 3.3.0
+	- balm 21.4.37
+	   \-- kuma_api 21.4.6
+	- beautify 1.5.0+1.21.4
+	- beekeeperhut 3.0.1
+	- better-fabric-console 1.2.2
+	   |-- adventure-platform-fabric 6.2.0
+	   |    |-- net_kyori_adventure-api 4.18.0
+	   |    |-- net_kyori_adventure-key 4.18.0
+	   |    |-- net_kyori_adventure-platform-api 4.3.4
+	   |    |-- net_kyori_adventure-platform-mod-shared-fabric-repack 6.2.0
+	   |    |-- net_kyori_adventure-text-logger-slf4j 4.18.0
+	   |    |-- net_kyori_adventure-text-minimessage 4.18.0
+	   |    |-- net_kyori_adventure-text-serializer-ansi 4.18.0
+	   |    |-- net_kyori_adventure-text-serializer-gson 4.18.0
+	   |    |-- net_kyori_adventure-text-serializer-json 4.18.0
+	   |    |-- net_kyori_adventure-text-serializer-plain 4.18.0
+	   |    |-- net_kyori_ansi 1.1.1
+	   |    |-- net_kyori_examination-api 1.3.0
+	   |    |-- net_kyori_examination-string 1.3.0
+	   |    \-- net_kyori_option 1.0.0
+	   |-- net_fabricmc_mapping-io 0.6.1
+	   |-- org_fusesource_jansi_jansi 2.4.1
+	   |-- org_jline_jline 3.28.0
+	   |-- org_jline_jline-terminal-jansi 3.28.0
+	   |-- org_spongepowered_configurate-core 4.1.2
+	   \-- org_spongepowered_configurate-hocon 4.1.2
+	- betterdeserttemples 1.21.4-Fabric-4.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.21.4-Fabric-5.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.21.4-Fabric-3.4.1
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.21.4-Fabric-3.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.21.4-Fabric-5.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.21.4-Fabric-4.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.21.4-Fabric-5.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- betterwitchhuts 1.21.4-Fabric-4.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- biomesoplenty 21.4.0.23
+	   \-- net_jodah_typetools 0.6.3
+	- birds-boids 1.3.1+1.21.4
+	- blockrunner 21.4.1
+	   \-- neoforgedatapackextensions 21.4.2
+	- boids 2.0.1+1.21.2
+	   \-- blue_endless_jankson 1.2.3
+	- bookshelfinspector 1.11+1.21.4
+	   \-- org_yaml_snakeyaml 2.4
+	- burnable_cobwebs 0.1.8
+	- c2me 0.3.1.3.0+1.21.4
+	   |-- c2me-base 0.3.1.3.0+1.21.4
+	   |-- c2me-client-uncapvd 0.3.1.3.0+1.21.4
+	   |-- c2me-fixes-chunkio-threading-issues 0.3.1.3.0+1.21.4
+	   |-- c2me-fixes-general-threading-issues 0.3.1.3.0+1.21.4
+	   |-- c2me-fixes-worldgen-threading-issues 0.3.1.3.0+1.21.4
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.1.3.0+1.21.4
+	   |-- c2me-notickvd 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-allocs 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-chunkio 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-dfc 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-math 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-scheduling 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-worldgen-general 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-worldgen-vanilla 0.3.1.3.0+1.21.4
+	   |-- c2me-rewrites-chunk-serializer 0.3.1.3.0+1.21.4
+	   |-- c2me-rewrites-chunk-system 0.3.1.3.0+1.21.4
+	   |-- c2me-rewrites-chunkio 0.3.1.3.0+1.21.4
+	   |-- c2me-server-utils 0.3.1.3.0+1.21.4
+	   |-- c2me-threading-lighting 0.3.1.3.0+1.21.4
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- io_reactivex_rxjava3_rxjava 3.1.8
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- chimes 2.0.3
+	- cinderscapes 5.2.2
+	   |-- biolith 3.2.7
+	   |-- cinderscapes-client 5.2.2
+	   |-- cinderscapes-common 5.2.2
+	   |-- cinderscapes-worldgen 5.2.2
+	   |-- terraform-biome-remapper-api-v1 13.0.0
+	   |-- terraform-shapes-api-v1 13.0.0
+	   |-- terraform-surfaces-api-v1 13.0.0
+	   \-- terraform-wood-api-v1 13.0.0
+	- cloth-config 17.0.144
+	   \-- cloth-basic-math 0.6.1
+	- cobweb 1.3.3
+	- collective 8.3
+	- comforts 10.0.1+1.21.4
+	   |-- cardinal-components-base 6.2.2
+	   |-- cardinal-components-entity 6.2.2
+	   \-- spectrelib 0.17.2+1.21
+	- connectiblechains 2.5.4+1.21.4
+	- cookingforblockheads 21.4.12
+	- copperrails 1.0.5+mc1.21.5
+	- coroutil 1.21.4-1.3.8
+	- creeperhealing 2.0.3-1.21.4+
+	- cropsloverain 2.4.2
+	   \-- midnightlib 1.7.2
+	- ctov 3.5.10
+	- dataloader 1.1.6+1.21
+	- debugify 1.21.4+1.1
+	- deepslatecutting 1.7.0+1.21.4
+	- disableportalchecks 1.0.0
+	- distanthorizons 2.4.3-b
+	   |-- fabric-key-binding-api-v1 1.0.55+7feeb73382
+	   |-- fabric-rendering-v1 10.0.0+6a293bdb82
+	   \-- fabric-screen-api-v1 2.0.36+7feeb73382
+	- easyanvils 21.4.1
+	- easymagic 21.4.1
+	- elytra-mod 0.1.1+1.21.4
+	- ember_kiln 1.1.2
+	- emotecraft 2.5.7
+	   \-- playeranimator 2.0.3.1+1.21.4
+	- enchancement 1.21.4-r8
+	   |-- cardinal-components-base 6.2.2
+	   |-- cardinal-components-entity 6.2.2
+	   |-- cardinal-components-world 6.2.2
+	   \-- tooltipfix 1.1.1-1.21.2
+	- enchanted_bookshelves 1.0
+	- enchantment_lore 1.5.1
+	   \-- server_translations_api 2.4.0+1.21.2-rc1
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- enderscape 1.0.9
+	   \-- mixson 1.3.2
+	- fabric-api 0.119.4+1.21.4
+	   |-- fabric-api-base 0.4.54+b47eab6b04
+	   |-- fabric-api-lookup-api-v1 1.6.86+b1caf1e904
+	   |-- fabric-biome-api-v1 15.0.6+b1c29d8e04
+	   |-- fabric-block-api-v1 1.0.31+7feeb73304
+	   |-- fabric-block-view-api-v2 1.0.20+9c49cc8c04
+	   |-- fabric-blockrenderlayer-v1 2.0.8+7feeb73304
+	   |-- fabric-client-tags-api-v1 1.1.29+20ea1e2304
+	   |-- fabric-command-api-v1 1.2.62+f71b366f04
+	   |-- fabric-command-api-v2 2.2.41+e496eb1504
+	   |-- fabric-commands-v0 0.2.79+df3654b304
+	   |-- fabric-content-registries-v0 9.1.19+25d1a67604
+	   |-- fabric-convention-tags-v1 2.1.20+7f945d5b04
+	   |-- fabric-convention-tags-v2 2.14.1+aebda09404
+	   |-- fabric-crash-report-info-v1 0.3.6+7feeb73304
+	   |-- fabric-data-attachment-api-v1 1.6.2+e99da0f704
+	   |-- fabric-data-generation-api-v1 22.3.1+0f4e5f5504
+	   |-- fabric-dimensions-v1 4.0.10+7feeb73304
+	   |-- fabric-entity-events-v1 2.0.15+62245bef04
+	   |-- fabric-events-interaction-v0 4.0.4+a4eebcf004
+	   |-- fabric-game-rule-api-v1 1.0.63+7d48d43904
+	   |-- fabric-item-api-v1 11.4.0+189dd6fe04
+	   |-- fabric-item-group-api-v1 4.2.2+fcb9601404
+	   |-- fabric-key-binding-api-v1 1.0.57+7d48d43904
+	   |-- fabric-keybindings-v0 0.2.55+df3654b304
+	   |-- fabric-lifecycle-events-v1 2.5.4+bf2a60eb04
+	   |-- fabric-loot-api-v2 3.0.38+3f89f5a504
+	   |-- fabric-loot-api-v3 1.0.26+203e6b2304
+	   |-- fabric-message-api-v1 6.0.26+238a33c004
+	   |-- fabric-model-loading-api-v1 4.3.0+ae23723504
+	   |-- fabric-networking-api-v1 4.4.0+db5e668204
+	   |-- fabric-object-builder-api-v1 18.0.14+38b0d59804
+	   |-- fabric-particles-v1 4.0.14+7feeb73304
+	   |-- fabric-recipe-api-v1 8.1.1+640e77ae04
+	   |-- fabric-registry-sync-v0 6.1.11+4a9c1ece04
+	   |-- fabric-renderer-api-v1 5.0.3+50f0feb204
+	   |-- fabric-renderer-indigo 2.0.3+50f0feb204
+	   |-- fabric-rendering-data-attachment-v1 0.3.58+73761d2e04
+	   |-- fabric-rendering-fluids-v1 3.1.19+7feeb73304
+	   |-- fabric-rendering-v1 10.2.1+0d31b09f04
+	   |-- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
+	   |-- fabric-resource-loader-v0 3.1.1+360374ac04
+	   |-- fabric-screen-api-v1 2.0.38+7feeb73304
+	   |-- fabric-screen-handler-api-v1 1.3.118+7feeb73304
+	   |-- fabric-sound-api-v1 1.0.32+7feeb73304
+	   |-- fabric-tag-api-v1 1.0.7+7d48d43904
+	   |-- fabric-transfer-api-v1 5.4.9+efa825c904
+	   \-- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
+	- fabric-language-kotlin 1.13.4+kotlin.2.2.0
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.0
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.28.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.1
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.1
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- fallingdown 0.128.2
+	- fallingtree 1.21.4.13
+	- fastconfigapi 2.1.0
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- fastitemframes 21.4.4
+	- ferritecore 7.1.1
+	- fishofthieves 4.1.2
+	   \-- mm 2.3
+	- forgeconfigapiport 21.4.2
+	   |-- com_electronwill_night-config_core 3.8.1
+	   \-- com_electronwill_night-config_toml 3.8.1
+	- friendsandfoes 4.0.8
+	- fzzy_config 0.7.2+1.21.3
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.3
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- geckolib 4.8.5
+	- geophilic 3.4.3
+	- gipples_galore 1.1.8
+	- glitchcore 2.3.0.4
+	   \-- net_jodah_typetools 0.6.3
+	- glowing-torchflower 1.3.0
+	   |-- com_typesafe_config 1.4.3
+	   |-- io_leangen_geantyref_geantyref 1.3.13
+	   |-- org_apache_commons_commons-text 1.10.0
+	   |-- org_spongepowered_configurate-core 4.1.2
+	   \-- org_spongepowered_configurate-hocon 4.1.2
+	- grabbymobs 1.6
+	- handoveryouritems 3.6
+	- happy_ghast_legacy 1.8.1
+	- horseexpert 21.4.1
+	- horseman 1.5.1
+	- illagerblabber 1.0.0
+	- immersivesnow 1.4.0
+	- infinity-cave 0.7
+	- inventorysorter 2.0.12
+	   |-- com_github_erosb_everit-json-schema 1.14.4
+	   |-- fabric-permissions-api-v0 0.3.3
+	   |-- meza_core 1.1.0
+	   |-- org_json_json 20231013
+	   \-- server_translations_api 2.4.0+1.21.2-rc1
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- jade 17.2.2+fabric
+	- jagmkiwis 1.2.1
+	- java 21
+	- jumpoverfences 1.7.1
+	- kinetic 1.0.0
+	- krypton 0.2.8
+	   \-- com_velocitypowered_velocity-native 3.3.0-SNAPSHOT
+	- ksyxis 1.3.4
+	- labellingcontainers 1.9.2
+	- leavesbegone 21.4.3
+	- letmedespawn 1.5.0
+	- libraryferret 4.0.0
+	- lithium 0.15.3+mc1.21.4
+	- lithostitched 1.4.4
+	- little-guys 0.1.6+1.21.4
+	- littlejoys 21.4.7
+	- lolmsv 1.3.10
+	- mcwbiomesoplenty 1.21.4-1.2.2
+	- mcwbridges 3.1.0
+	- mcwdoors 1.1.3
+	- mcwfences 1.2.0
+	- mcwlights 1.1.2
+	- mcwpaths 1.1.0
+	- mcwstairs 1.0.1
+	- mcwtrpdoors 1.1.4
+	- mcwwindows 2.4.0
+	- minecraft 1.21.4
+	- modernfix 5.20.3+mc1.21.4
+	- monkeyconfig 0.1.2+1.21
+	   |-- com_electronwill_night-config_hocon 3.7.2
+	   |-- com_electronwill_night-config_json 3.7.2
+	   \-- com_electronwill_night-config_yaml 3.7.2
+	- monstereyes 1.2
+	- monsters_in_the_closet 1.0.3+1.21.2
+	- moveboats 3.5
+	- mr_advancement_overload 1.2.2
+	- mr_better_hangingsigns 5.1
+	- mr_better_sleep 2.2.2
+	- mr_blasting_plus 1.4
+	- mr_boats_upstairs 3.2
+	- mr_cheaper_maps 1.2
+	- mr_copper_horseshoes 1.1
+	- mr_dungeons_andtaverns 1-v4.6.3
+	- mr_fallen_logs 3.6
+	- mr_following_horses 1.21
+	- mr_good_boypainting 1.2
+	- mr_infused_potatos 1-v1.1.0
+	- mr_ketkets_furnicraft 5.0
+	- mr_mine_treasure 1.5.2
+	- mr_mob_heads 1-v.3.2.3
+	- mr_nice_mobs 1.1
+	- mr_plushie_pods 1.1
+	- mr_prehistoric_mobs 1.0
+	- mr_recibles 1.0.8
+	- mr_revamped_wanderingtrader 1.2.1
+	- mr_ships 3.0.4
+	- mr_skippy_pearls 1.21
+	- mr_smoking_plus 1.1
+	- mr_spawn_animationscompats 11.0
+	- mr_tidal_towns 1.3.4
+	- mr_true_ending 1-v1.1.4b
+	- mr_useful_mobs 3.0
+	- mr_vanilla_refresh 1.4.27a
+	- mr_villager_transportation 1.3.3
+	- mr_wither_shrines 2.0.0
+	- mr_witherswrath 1.10
+	- mr_xp_crystals 1.0
+	- mutantmonsters 21.4.2
+	- naturally_trimmed 3.0.8
+	   |-- org_quiltmc_parsers_gson 0.3.1
+	   \-- org_quiltmc_parsers_json 0.3.1
+	- naturescompass 1.21.4-2.2.8-fabric
+	- netherportalfix 21.4.3
+	- nightlights 1.3.0
+	- noanimaltemptdelay 1.2
+	- nocturnal-bats 1.1.0+1.21.3
+	- noisium 2.5.0+mc1.21.4
+	- notenoughcrashes 4.4.8+1.21.4
+	- owo 0.12.20+1.21.4
+	   |-- io_wispforest_endec 0.1.9
+	   |-- io_wispforest_endec_gson 0.1.6
+	   |-- io_wispforest_endec_jankson 0.1.6
+	   \-- io_wispforest_endec_netty 0.1.5
+	- persistent_parrots 1.0
+	- pfm 1.4.4
+	- ping-wheel 1.11.0
+	- player-locator-plus 2.1.3
+	   \-- com_akuleshov7_ktoml-core-jvm 0.5.2
+	- plentyplates 21.4.0
+	- polydecorations 0.6.0+1.21.4-rc3
+	   |-- common-protection-api 1.0.0
+	   |-- factorytools 0.5.0+1.21.4
+	   |-- map-canvas-api 0.5.0+1.21.3
+	   \-- sgui 1.8.1+1.21.4
+	- polymer-bundled 0.11.8+1.21.4
+	   |-- polymer-autohost 0.11.8+1.21.4
+	   |    \-- io_netty_netty-codec-http 4.1.82
+	   |-- polymer-blocks 0.11.8+1.21.4
+	   |-- polymer-common 0.11.8+1.21.4
+	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- polymer-core 0.11.8+1.21.4
+	   |    |-- polymer-networking 0.11.8+1.21.4
+	   |    |    \-- polymer-common 0.11.8+1.21.4
+	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |    \-- polymer-registry-sync-manipulator 0.11.8+1.21.4
+	   |-- polymer-resource-pack 0.11.8+1.21.4
+	   |    \-- polymer-common 0.11.8+1.21.4
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- polymer-resource-pack-extras 0.11.8+1.21.4
+	   \-- polymer-virtual-entity 0.11.8+1.21.4
+	        \-- polymer-common 0.11.8+1.21.4
+	             \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- potioncauldron 1.0.1+mc1.21.4
+	- puzzleslib 21.4.13
+	- resource_backpacks 1.2.3
+	- resourceconfigapi 1.21.4-3.7.3
+	- resourcefullib 3.4.5
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- resourcelibrary 1.21.4-2.7.0
+	- respawnablepets 1.21.4-r1
+	- revamped_shipwrecks 1.1.0
+	- scalablelux 0.1.2+beta.1+fabric.6d46f24
+	- sereneseasons 10.4.0.6
+	   \-- net_jodah_typetools 0.6.3
+	- servercore 1.5.8+1.21.4
+	   |-- fabric-permissions-api-v0 0.3.3
+	   |-- placeholder-api 2.5.1+1.21.3
+	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
+	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
+	- shieldsoundsbackport 1.0.0-fabric
+	- shifting-wares 3.1.1+1.21.3
+	- simple_copper_pipes 2.0.6
+	   \-- frozenlib 2.0.3-mc1.21.4
+	- simple_snowy_fix 2.1.4
+	- skniro_furniture 1.1.1-1.21.4-Fabric
+	- smallships 2.0.0-b2.1
+	- smooth-minecarts 0.1.0
+	- sneakycurses 21.4.0
+	- snifferride 1.0-SNAPSHOT
+	- snuffles 1.4.0+1.21.4
+	- soul_fire_d 5.1.6
+	- spawnanimations 1.11+mod
+	- spookydoors 21.4.6
+	- stalkercreepers 1.0.0
+	- stoneworks 21.4.0
+	- structory 1.3.12
+	- structory_towers 1.0.13
+	- suggestion_tweaker 1.20.6-1.5.3
+	- superenderman 1.0
+	- tameable-foxes 1.1.0-fabric.1.21.4
+	- terrablender 4.3.0.2
+	- terralith 2.5.8
+	- tms 1.2.3
+	- tumbleweeds 1.1.0
+	- twoplayersonehorse 1.0.2
+	- undeadnights 1.2.3-Fabric-mc1.21.4
+	- underlay 0.9.7
+	- untitledduckmod 0.8.5
+	- unwrecked_ships_plus 2.0.6
+	- useful_brush 0.2.3+mc1.21.4
+	- villagehealthcare 1.2.0
+	- visualworkbench 21.4.1
+	- void_lib 1.1.6
+	- watut 1.21.4-1.2.5
+	- waystones 21.4.19
+	- weakerspiderwebs 3.8
+	- wits 1.4.0+1.21.3-fabric
+	- xprewardsystem 2.6.2
+	- xxlpackets 1.0.5-1.21
+	- ydms_redpanda 1.0.0
+	- yet_another_config_lib_v3 3.7.1+1.21.4-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   \-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	- yungsapi 1.21.4-Fabric-5.4.0
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- yungsbridges 1.21.4-Fabric-5.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- yungsextras 1.21.4-Fabric-5.4.0
+	   \-- org_reflections_reflections 0.10.2
+[19:30:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SRVR-Test-2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:30:44] [main/INFO]: Compatibility level set to JAVA_21
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[19:30:45] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[19:30:45] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@15.0.3 (*) (defined in c2me)
+[19:30:45] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[19:30:45] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[19:30:45] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'fastitemframes.fabric.refmap.json' for fastitemframes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'horseexpert.common.refmap.json' for horseexpert.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'horseexpert.fabric.refmap.json' for horseexpert.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'jagmkiwis.refmap.json' for jagmkiwis.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'jagmkiwis.refmap.json' for jagmkiwis.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'leavesbegone.fabric.refmap.json' for leavesbegone.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[19:30:45] [main/WARN]: Mod 'mutantmonsters' attempted to override option 'mixin.ai.nearby_entity_tracking.goals', which doesn't exist, ignoring
+[19:30:45] [main/INFO]: Loaded configuration file for Lithium: 158 options available, 3 override(s) found.
+[19:30:45] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 4 override(s) found
+[19:30:45] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[19:30:45] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[19:30:45] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[19:30:45] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[19:30:45] [main/INFO]: Applying Nashorn fix
+[19:30:45] [main/WARN]: Reference map 'mutantmonsters.common.refmap.json' for mutantmonsters.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'mutantmonsters.fabric.refmap.json' for mutantmonsters.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'neoforgedatapackextensions.common.refmap.json' for neoforgedatapackextensions.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'plentyplates.common.refmap.json' for plentyplates.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:45] [main/WARN]: Reference map 'plentyplates.fabric.refmap.json' for plentyplates.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:46] [main/WARN]: Reference map 'sneakycurses.fabric.refmap.json' for sneakycurses.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:46] [main/WARN]: Reference map 'stoneworks.common.refmap.json' for stoneworks.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:46] [main/WARN]: Reference map 'stoneworks.fabric.refmap.json' for stoneworks.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:46] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:46] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:46] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:30:47] [main/WARN]: Error loading class: koala/fishingreal/FishingReal (java.lang.ClassNotFoundException: koala/fishingreal/FishingReal)
+[19:30:47] [main/WARN]: @Mixin target koala.fishingreal.FishingReal was not found boids.mixins.json:compat.RealFishingMixin from mod boids
+[19:30:47] [main/INFO]: Disabling config vanillaWorldGenOptimizations.useEndBiomeCache: Incompatible with biolith@3.2.7 (*) (defined in c2me)
+[19:30:47] [main/WARN]: Error loading class: traben/entity_model_features/models/animation/EMFAnimationEntityContext (java.lang.ClassNotFoundException: traben/entity_model_features/models/animation/EMFAnimationEntityContext)
+[19:30:48] [main/WARN]: Error loading class: com/electronwill/nightconfig/core/io/IoUtils (java.lang.ClassNotFoundException: com/electronwill/nightconfig/core/io/IoUtils)
+[19:30:48] [main/INFO]: Force-disabling mixin 'alloc.chunk_random.LevelMixin' as rule 'mixin.alloc.chunk_random' (added by mods [async]) disables it and children
+[19:30:48] [main/INFO]: Force-disabling mixin 'alloc.chunk_random.ServerLevelMixin' as rule 'mixin.alloc.chunk_random' (added by mods [async]) disables it and children
+[19:30:48] [main/INFO]: Force-disabling mixin 'shapes.lazy_shape_context.EntityCollisionContextMixin' as rule 'mixin.shapes.lazy_shape_context' (added by mods [enchancement]) disables it and children
+[19:30:48] [main/INFO]: Force-disabling mixin 'world.explosions.block_raycast.ServerExplosionMixin' as rule 'mixin.world.explosions' (added by mods [creeperhealing]) disables it and children
+[19:30:48] [main/INFO]: Force-disabling mixin 'world.explosions.entity_raycast.ClipContextMixin' as rule 'mixin.world.explosions' (added by mods [creeperhealing]) disables it and children
+[19:30:48] [main/INFO]: Force-disabling mixin 'world.explosions.entity_raycast.ServerExplosionMixin' as rule 'mixin.world.explosions' (added by mods [creeperhealing]) disables it and children
+[19:30:48] [main/WARN]: Error loading class: com/li64/tide/registries/entities/misc/fishing/TideFishingHook (java.lang.ClassNotFoundException: com/li64/tide/registries/entities/misc/fishing/TideFishingHook)
+[19:30:48] [main/WARN]: @Mixin target com.li64.tide.registries.entities.misc.fishing.TideFishingHook was not found littlejoys.mixins.json:TideFishingHookMixin from mod littlejoys
+[19:30:48] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[19:30:48] [main/WARN]: @Mixin target net.minecraft.class_310 was not found monsters_in_the_closet.mixins.json:MinecraftClientMixin from mod monsters_in_the_closet
+[19:30:48] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[19:30:48] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[19:30:48] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[19:30:48] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[19:30:48] [main/WARN]: Error loading class: net/minecraft/class_4945 (java.lang.ClassNotFoundException: net/minecraft/class_4945)
+[19:30:48] [main/WARN]: @Mixin target net.minecraft.class_4945 was not found pfm-common.mixins.json:PFMTextureKeyFactory from mod pfm
+[19:30:48] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity)
+[19:30:49] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[19:30:49] [main/INFO]: Initializing Better Fabric Console...
+[19:30:49] [main/INFO]: Initializing Better Fabric Console mappings...
+[19:30:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[19:30:49] [main/INFO]: Reading mappings...
+[19:30:50] [main/INFO]: Done in 0.2280 seconds.
+[19:30:50] [main/INFO]: Scanning jar files for annotations...
+[19:30:50] [main/INFO]: Found 5 annotated classes in mod 'abseil'
+[19:30:50] [main/INFO]: Found 1 annotated classes in mod 'achiopt'
+[19:30:50] [main/INFO]: Found 21 annotated classes in mod 'addonslib'
+[19:30:50] [main/INFO]: Found 26 annotated classes in mod 'adventure-platform-fabric'
+[19:30:50] [main/INFO]: Found 262 annotated classes in mod 'net_kyori_adventure-api'
+[19:30:50] [main/INFO]: Found 10 annotated classes in mod 'net_kyori_adventure-key'
+[19:30:50] [main/INFO]: Found 2 annotated classes in mod 'net_kyori_adventure-platform-api'
+[19:30:50] [main/INFO]: Found 86 annotated classes in mod 'net_kyori_adventure-platform-mod-shared-fabric-repack'
+[19:30:50] [main/INFO]: Found 7 annotated classes in mod 'net_kyori_adventure-text-logger-slf4j'
+[19:30:50] [main/INFO]: Found 91 annotated classes in mod 'net_kyori_adventure-text-minimessage'
+[19:30:50] [main/INFO]: Found 7 annotated classes in mod 'net_kyori_adventure-text-serializer-ansi'
+[19:30:50] [main/INFO]: Found 19 annotated classes in mod 'net_kyori_adventure-text-serializer-gson'
+[19:30:50] [main/INFO]: Found 8 annotated classes in mod 'net_kyori_adventure-text-serializer-json'
+[19:30:50] [main/INFO]: Found 9 annotated classes in mod 'net_kyori_adventure-text-serializer-plain'
+[19:30:50] [main/INFO]: Found 15 annotated classes in mod 'net_kyori_ansi'
+[19:30:50] [main/INFO]: Found 22 annotated classes in mod 'net_kyori_examination-api'
+[19:30:50] [main/INFO]: Found 3 annotated classes in mod 'net_kyori_examination-string'
+[19:30:50] [main/INFO]: Found 10 annotated classes in mod 'net_kyori_option'
+[19:30:50] [main/INFO]: Found 2 annotated classes in mod 'almanac'
+[19:30:50] [main/INFO]: Found 7 annotated classes in mod 'animal_feeding_trough'
+[19:30:50] [main/INFO]: Found 12 annotated classes in mod 'animalgarden_owl'
+[19:30:50] [main/INFO]: Found 7 annotated classes in mod 'animalgarden_porcupine'
+[19:30:50] [main/INFO]: Found 13 annotated classes in mod 'appleskin'
+[19:30:50] [main/INFO]: Found 218 annotated classes in mod 'architectury'
+[19:30:50] [main/INFO]: Found 81 annotated classes in mod 'async'
+[19:30:50] [main/INFO]: Found 34 annotated classes in mod 'mixinsquared'
+[19:30:50] [main/INFO]: Found 2 annotated classes in mod 'awesomedungeon'
+[19:30:50] [main/INFO]: Found 2 annotated classes in mod 'awesomedungeonocean'
+[19:30:50] [main/INFO]: Found 117 annotated classes in mod 'balm'
+[19:30:50] [main/INFO]: Found 8 annotated classes in mod 'kuma_api'
+[19:30:50] [main/INFO]: Found 15 annotated classes in mod 'beautify'
+[19:30:50] [main/INFO]: Found 2 annotated classes in mod 'beekeeperhut'
+[19:30:50] [main/INFO]: Found 33 annotated classes in mod 'better-fabric-console'
+[19:30:50] [main/INFO]: Found 1 annotated classes in mod 'org_spongepowered_configurate-hocon'
+[19:30:50] [main/INFO]: Found 114 annotated classes in mod 'org_spongepowered_configurate-core'
+[19:30:50] [main/INFO]: Found 22 annotated classes in mod 'org_jline_jline'
+[19:30:50] [main/INFO]: Found 7 annotated classes in mod 'org_fusesource_jansi_jansi'
+[19:30:50] [main/INFO]: Found 47 annotated classes in mod 'net_fabricmc_mapping-io'
+[19:30:50] [main/INFO]: Found 26 annotated classes in mod 'adventure-platform-fabric'
+[19:30:50] [main/INFO]: Found 262 annotated classes in mod 'net_kyori_adventure-api'
+[19:30:50] [main/INFO]: Found 10 annotated classes in mod 'net_kyori_adventure-key'
+[19:30:50] [main/INFO]: Found 2 annotated classes in mod 'net_kyori_adventure-platform-api'
+[19:30:50] [main/INFO]: Found 86 annotated classes in mod 'net_kyori_adventure-platform-mod-shared-fabric-repack'
+[19:30:50] [main/INFO]: Found 7 annotated classes in mod 'net_kyori_adventure-text-logger-slf4j'
+[19:30:50] [main/INFO]: Found 91 annotated classes in mod 'net_kyori_adventure-text-minimessage'
+[19:30:50] [main/INFO]: Found 7 annotated classes in mod 'net_kyori_adventure-text-serializer-ansi'
+[19:30:50] [main/INFO]: Found 19 annotated classes in mod 'net_kyori_adventure-text-serializer-gson'
+[19:30:50] [main/INFO]: Found 8 annotated classes in mod 'net_kyori_adventure-text-serializer-json'
+[19:30:50] [main/INFO]: Found 9 annotated classes in mod 'net_kyori_adventure-text-serializer-plain'
+[19:30:50] [main/INFO]: Found 15 annotated classes in mod 'net_kyori_ansi'
+[19:30:50] [main/INFO]: Found 22 annotated classes in mod 'net_kyori_examination-api'
+[19:30:50] [main/INFO]: Found 3 annotated classes in mod 'net_kyori_examination-string'
+[19:30:50] [main/INFO]: Found 10 annotated classes in mod 'net_kyori_option'
+[19:30:50] [main/INFO]: Found 38 annotated classes in mod 'betterdeserttemples'
+[19:30:50] [main/INFO]: Found 45 annotated classes in mod 'betterdungeons'
+[19:30:50] [main/INFO]: Found 14 annotated classes in mod 'betterfortresses'
+[19:30:50] [main/INFO]: Found 18 annotated classes in mod 'betterjungletemples'
+[19:30:50] [main/INFO]: Found 11 annotated classes in mod 'bettermineshafts'
+[19:30:50] [main/INFO]: Found 12 annotated classes in mod 'org_reflections_reflections'
+[19:30:50] [main/INFO]: Found 18 annotated classes in mod 'betteroceanmonuments'
+[19:30:50] [main/INFO]: Found 10 annotated classes in mod 'betterstrongholds'
+[19:30:50] [main/INFO]: Found 11 annotated classes in mod 'betterwitchhuts'
+[19:30:50] [main/INFO]: Found 41 annotated classes in mod 'biolith'
+[19:30:50] [main/INFO]: Found 14 annotated classes in mod 'biomesoplenty'
+[19:30:50] [main/INFO]: Found 1 annotated classes in mod 'birds-boids'
+[19:30:50] [main/INFO]: Found 4 annotated classes in mod 'blockrunner'
+[19:30:50] [main/INFO]: Found 29 annotated classes in mod 'neoforgedatapackextensions'
+[19:30:50] [main/INFO]: Found 18 annotated classes in mod 'blue_endless_jankson'
+[19:30:50] [main/INFO]: Found 4 annotated classes in mod 'boids'
+[19:30:50] [main/INFO]: Found 18 annotated classes in mod 'blue_endless_jankson'
+[19:30:50] [main/INFO]: Found 10 annotated classes in mod 'bookshelfinspector'
+[19:30:50] [main/INFO]: Found 1 annotated classes in mod 'org_yaml_snakeyaml'
+[19:30:50] [main/INFO]: Found 7 annotated classes in mod 'c2me-rewrites-chunk-serializer'
+[19:30:50] [main/INFO]: Found 8 annotated classes in mod 'c2me-rewrites-chunkio'
+[19:30:50] [main/INFO]: Found 4 annotated classes in mod 'c2me-opts-worldgen-vanilla'
+[19:30:51] [main/INFO]: Found 269 annotated classes in mod 'io_reactivex_rxjava3_rxjava'
+[19:30:51] [main/INFO]: Found 15 annotated classes in mod 'c2me-opts-dfc'
+[19:30:51] [main/INFO]: Found 15 annotated classes in mod 'c2me-notickvd'
+[19:30:51] [main/INFO]: Found 15 annotated classes in mod 'c2me-opts-scheduling'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'com_ibm_async_asyncutil'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'c2me-fixes-general-threading-issues'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-worldgen-general'
+[19:30:51] [main/INFO]: Found 14 annotated classes in mod 'c2me-opts-allocs'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-math'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-worldgen-vanilla-bugs'
+[19:30:51] [main/INFO]: Found 24 annotated classes in mod 'c2me-rewrites-chunk-system'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'c2me-server-utils'
+[19:30:51] [main/INFO]: Found 2 annotated classes in mod 'c2me-opts-chunkio'
+[19:30:51] [main/INFO]: Found 61 annotated classes in mod 'c2me-base'
+[19:30:51] [main/INFO]: Found 36 annotated classes in mod 'c2me-fixes-worldgen-threading-issues'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'c2me-threading-lighting'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-chunkio-threading-issues'
+[19:30:51] [main/INFO]: Found 10 annotated classes in mod 'org_jctools_jctools-core'
+[19:30:51] [main/INFO]: Found 61 annotated classes in mod 'c2me-base'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-chunkio-threading-issues'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'c2me-fixes-general-threading-issues'
+[19:30:51] [main/INFO]: Found 36 annotated classes in mod 'c2me-fixes-worldgen-threading-issues'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-worldgen-vanilla-bugs'
+[19:30:51] [main/INFO]: Found 15 annotated classes in mod 'c2me-notickvd'
+[19:30:51] [main/INFO]: Found 14 annotated classes in mod 'c2me-opts-allocs'
+[19:30:51] [main/INFO]: Found 2 annotated classes in mod 'c2me-opts-chunkio'
+[19:30:51] [main/INFO]: Found 15 annotated classes in mod 'c2me-opts-dfc'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-math'
+[19:30:51] [main/INFO]: Found 15 annotated classes in mod 'c2me-opts-scheduling'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-worldgen-general'
+[19:30:51] [main/INFO]: Found 4 annotated classes in mod 'c2me-opts-worldgen-vanilla'
+[19:30:51] [main/INFO]: Found 7 annotated classes in mod 'c2me-rewrites-chunk-serializer'
+[19:30:51] [main/INFO]: Found 24 annotated classes in mod 'c2me-rewrites-chunk-system'
+[19:30:51] [main/INFO]: Found 8 annotated classes in mod 'c2me-rewrites-chunkio'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'c2me-server-utils'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'c2me-threading-lighting'
+[19:30:51] [main/INFO]: Found 37 annotated classes in mod 'cardinal-components-base'
+[19:30:51] [main/INFO]: Found 18 annotated classes in mod 'cardinal-components-entity'
+[19:30:51] [main/INFO]: Found 10 annotated classes in mod 'cardinal-components-world'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'chimes'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'terraform-surfaces-api-v1'
+[19:30:51] [main/INFO]: Found 41 annotated classes in mod 'biolith'
+[19:30:51] [main/INFO]: Found 16 annotated classes in mod 'terraform-wood-api-v1'
+[19:30:51] [main/INFO]: Found 16 annotated classes in mod 'cinderscapes-common'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'terraform-biome-remapper-api-v1'
+[19:30:51] [main/INFO]: Found 2 annotated classes in mod 'terraform-shapes-api-v1'
+[19:30:51] [main/INFO]: Found 16 annotated classes in mod 'cinderscapes-common'
+[19:30:51] [main/INFO]: Found 223 annotated classes in mod 'cloth-config'
+[19:30:51] [main/INFO]: Found 21 annotated classes in mod 'cobweb'
+[19:30:51] [main/INFO]: Found 205 annotated classes in mod 'collective'
+[19:30:51] [main/INFO]: Found 103 annotated classes in mod 'com_akuleshov7_ktoml-core-jvm'
+[19:30:51] [main/INFO]: Found 48 annotated classes in mod 'com_electronwill_night-config_core'
+[19:30:51] [main/INFO]: Found 23 annotated classes in mod 'com_github_erosb_everit-json-schema'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'com_ibm_async_asyncutil'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'com_teamresourceful_bytecodecs'
+[19:30:51] [main/INFO]: Found 6 annotated classes in mod 'com_teamresourceful_yabn'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'com_twelvemonkeys_common_common-image'
+[19:30:51] [main/INFO]: Found 2 annotated classes in mod 'com_twelvemonkeys_common_common-io'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'com_twelvemonkeys_common_common-lang'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'com_twelvemonkeys_imageio_imageio-core'
+[19:30:51] [main/INFO]: Found 4 annotated classes in mod 'com_twelvemonkeys_imageio_imageio-metadata'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'com_typesafe_config'
+[19:30:51] [main/INFO]: Found 1 annotated classes in mod 'com_velocitypowered_velocity-native'
+[19:30:51] [main/INFO]: Found 23 annotated classes in mod 'comforts'
+[19:30:51] [main/INFO]: Found 23 annotated classes in mod 'spectrelib'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'common-protection-api'
+[19:30:51] [main/INFO]: Found 17 annotated classes in mod 'connectiblechains'
+[19:30:51] [main/INFO]: Found 48 annotated classes in mod 'cookingforblockheads'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'copperrails'
+[19:30:51] [main/INFO]: Found 4 annotated classes in mod 'coroutil'
+[19:30:51] [main/INFO]: Found 22 annotated classes in mod 'creeperhealing'
+[19:30:51] [main/INFO]: Found 9 annotated classes in mod 'cropsloverain'
+[19:30:51] [main/INFO]: Found 16 annotated classes in mod 'midnightlib'
+[19:30:51] [main/INFO]: Found 2 annotated classes in mod 'dataloader'
+[19:30:51] [main/INFO]: Found 80 annotated classes in mod 'debugify'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'disableportalchecks'
+[19:30:51] [main/INFO]: Found 272 annotated classes in mod 'distanthorizons'
+[19:30:51] [main/INFO]: Found 20 annotated classes in mod 'easyanvils'
+[19:30:51] [main/INFO]: Found 12 annotated classes in mod 'easymagic'
+[19:30:51] [main/INFO]: Found 6 annotated classes in mod 'elytra-mod'
+[19:30:51] [main/INFO]: Found 3 annotated classes in mod 'ember_kiln'
+[19:30:51] [main/INFO]: Found 66 annotated classes in mod 'emotecraft'
+[19:30:51] [main/INFO]: Found 85 annotated classes in mod 'playeranimator'
+[19:30:52] [main/INFO]: Found 225 annotated classes in mod 'enchancement'
+[19:30:52] [main/INFO]: Found 10 annotated classes in mod 'cardinal-components-world'
+[19:30:52] [main/INFO]: Found 18 annotated classes in mod 'cardinal-components-entity'
+[19:30:52] [main/INFO]: Found 37 annotated classes in mod 'cardinal-components-base'
+[19:30:52] [main/INFO]: Found 5 annotated classes in mod 'enchanted_bookshelves'
+[19:30:52] [main/INFO]: Found 3 annotated classes in mod 'enchantment_lore'
+[19:30:52] [main/INFO]: Found 18 annotated classes in mod 'server_translations_api'
+[19:30:52] [main/INFO]: Found 19 annotated classes in mod 'packet_tweaker'
+[19:30:52] [main/INFO]: Found 166 annotated classes in mod 'enderscape'
+[19:30:52] [main/INFO]: Found 15 annotated classes in mod 'mixson'
+[19:30:52] [main/INFO]: Found 448 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-datetime-jvm'
+[19:30:52] [main/INFO]: Found 68 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-io-core-jvm'
+[19:30:52] [main/INFO]: Found 954 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib'
+[19:30:52] [main/INFO]: Found 1 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib-jdk8'
+[19:30:52] [main/INFO]: Found 833 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm'
+[19:30:52] [main/INFO]: Found 1192 annotated classes in mod 'org_jetbrains_kotlin_kotlin-reflect'
+[19:30:52] [main/INFO]: Found 37 annotated classes in mod 'org_jetbrains_kotlinx_atomicfu-jvm'
+[19:30:52] [main/INFO]: Found 39 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm'
+[19:30:52] [main/INFO]: Found 11 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm'
+[19:30:53] [main/INFO]: Found 226 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-core-jvm'
+[19:30:53] [main/INFO]: Found 136 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-json-jvm'
+[19:30:53] [main/INFO]: Found 1 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib-jdk7'
+[19:30:53] [main/INFO]: Found 6 annotated classes in mod 'fabric-permissions-api-v0'
+[19:30:53] [main/INFO]: Found 21 annotated classes in mod 'factorytools'
+[19:30:53] [main/INFO]: Found 2 annotated classes in mod 'fallingdown'
+[19:30:53] [main/INFO]: Found 153 annotated classes in mod 'fallingtree'
+[19:30:53] [main/INFO]: Found 8 annotated classes in mod 'fastconfigapi'
+[19:30:53] [main/INFO]: Found 6 annotated classes in mod 'fastitemframes'
+[19:30:53] [main/INFO]: Found 28 annotated classes in mod 'ferritecore'
+[19:30:53] [main/INFO]: Found 70 annotated classes in mod 'fishofthieves'
+[19:30:53] [main/INFO]: Found 2 annotated classes in mod 'mm'
+[19:30:53] [main/INFO]: Found 51 annotated classes in mod 'forgeconfigapiport'
+[19:30:53] [main/INFO]: Found 48 annotated classes in mod 'com_electronwill_night-config_core'
+[19:30:53] [main/INFO]: Found 93 annotated classes in mod 'friendsandfoes'
+[19:30:53] [main/INFO]: Found 557 annotated classes in mod 'frozenlib'
+[19:30:53] [main/INFO]: Found 718 annotated classes in mod 'fzzy_config'
+[19:30:53] [main/INFO]: Found 139 annotated classes in mod 'net_peanuuutz_tomlkt_tomlkt-jvm'
+[19:30:53] [main/INFO]: Found 110 annotated classes in mod 'geckolib'
+[19:30:53] [main/INFO]: Found 9 annotated classes in mod 'gipples_galore'
+[19:30:53] [main/INFO]: Found 15 annotated classes in mod 'glitchcore'
+[19:30:53] [main/INFO]: Found 2 annotated classes in mod 'glowing-torchflower'
+[19:30:53] [main/INFO]: Found 3 annotated classes in mod 'com_typesafe_config'
+[19:30:53] [main/INFO]: Found 12 annotated classes in mod 'org_apache_commons_commons-text'
+[19:30:53] [main/INFO]: Found 8 annotated classes in mod 'grabbymobs'
+[19:30:53] [main/INFO]: Found 8 annotated classes in mod 'handoveryouritems'
+[19:30:53] [main/INFO]: Found 15 annotated classes in mod 'happy_ghast_legacy'
+[19:30:53] [main/INFO]: Found 5 annotated classes in mod 'horseexpert'
+[19:30:53] [main/INFO]: Found 63 annotated classes in mod 'horseman'
+[19:30:53] [main/INFO]: Found 18 annotated classes in mod 'illagerblabber'
+[19:30:53] [main/INFO]: Found 7 annotated classes in mod 'immersivesnow'
+[19:30:53] [main/INFO]: Found 1 annotated classes in mod 'infinity-cave'
+[19:30:53] [main/INFO]: Found 12 annotated classes in mod 'inventorysorter'
+[19:30:53] [main/INFO]: Found 23 annotated classes in mod 'com_github_erosb_everit-json-schema'
+[19:30:53] [main/INFO]: Found 6 annotated classes in mod 'fabric-permissions-api-v0'
+[19:30:53] [main/INFO]: Found 3 annotated classes in mod 'org_json_json'
+[19:30:53] [main/INFO]: Found 51 annotated classes in mod 'io_netty_netty-codec-http'
+[19:30:53] [main/INFO]: Found 269 annotated classes in mod 'io_reactivex_rxjava3_rxjava'
+[19:30:53] [main/INFO]: Found 22 annotated classes in mod 'io_wispforest_endec'
+[19:30:53] [main/INFO]: Found 2 annotated classes in mod 'io_wispforest_endec_gson'
+[19:30:53] [main/INFO]: Found 2 annotated classes in mod 'io_wispforest_endec_jankson'
+[19:30:53] [main/INFO]: Found 1 annotated classes in mod 'io_wispforest_endec_netty'
+[19:30:53] [main/INFO]: Found 141 annotated classes in mod 'jade'
+[19:30:53] [main/INFO]: Found 1 annotated classes in mod 'jagmkiwis'
+[19:30:53] [main/INFO]: Found 3 annotated classes in mod 'jumpoverfences'
+[19:30:53] [main/INFO]: Found 1 annotated classes in mod 'kinetic'
+[19:30:53] [main/INFO]: Found 10 annotated classes in mod 'krypton'
+[19:30:53] [main/INFO]: Found 1 annotated classes in mod 'com_velocitypowered_velocity-native'
+[19:30:53] [main/INFO]: Found 13 annotated classes in mod 'ksyxis'
+[19:30:53] [main/INFO]: Found 8 annotated classes in mod 'kuma_api'
+[19:30:53] [main/INFO]: Found 21 annotated classes in mod 'labellingcontainers'
+[19:30:53] [main/INFO]: Found 8 annotated classes in mod 'leavesbegone'
+[19:30:53] [main/INFO]: Found 1 annotated classes in mod 'letmedespawn'
+[19:30:53] [main/INFO]: Found 3 annotated classes in mod 'libraryferret'
+[19:30:53] [main/INFO]: Found 434 annotated classes in mod 'lithium'
+[19:30:53] [main/INFO]: Found 41 annotated classes in mod 'lithostitched'
+[19:30:53] [main/INFO]: Found 17 annotated classes in mod 'little-guys'
+[19:30:54] [main/INFO]: Found 23 annotated classes in mod 'littlejoys'
+[19:30:54] [main/INFO]: Found 9 annotated classes in mod 'lolmsv'
+[19:30:54] [main/INFO]: Found 26 annotated classes in mod 'map-canvas-api'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'mcwbiomesoplenty'
+[19:30:54] [main/INFO]: Found 5 annotated classes in mod 'mcwbridges'
+[19:30:54] [main/INFO]: Found 2 annotated classes in mod 'mcwdoors'
+[19:30:54] [main/INFO]: Found 4 annotated classes in mod 'mcwfences'
+[19:30:54] [main/INFO]: Found 4 annotated classes in mod 'mcwlights'
+[19:30:54] [main/INFO]: Found 9 annotated classes in mod 'mcwwindows'
+[19:30:54] [main/INFO]: Found 16 annotated classes in mod 'midnightlib'
+[19:30:54] [main/INFO]: Found 34 annotated classes in mod 'mixinsquared'
+[19:30:54] [main/INFO]: Found 15 annotated classes in mod 'mixson'
+[19:30:54] [main/INFO]: Found 2 annotated classes in mod 'mm'
+[19:30:54] [main/INFO]: Found 105 annotated classes in mod 'modernfix'
+[19:30:54] [main/INFO]: Found 85 annotated classes in mod 'monkeyconfig'
+[19:30:54] [main/INFO]: Found 6 annotated classes in mod 'monstereyes'
+[19:30:54] [main/INFO]: Found 5 annotated classes in mod 'monsters_in_the_closet'
+[19:30:54] [main/INFO]: Found 4 annotated classes in mod 'moveboats'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'mr_spawn_animationscompats'
+[19:30:54] [main/INFO]: Found 26 annotated classes in mod 'mutantmonsters'
+[19:30:54] [main/INFO]: Found 17 annotated classes in mod 'naturally_trimmed'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'org_quiltmc_parsers_json'
+[19:30:54] [main/INFO]: Found 2 annotated classes in mod 'org_quiltmc_parsers_gson'
+[19:30:54] [main/INFO]: Found 20 annotated classes in mod 'naturescompass'
+[19:30:54] [main/INFO]: Found 29 annotated classes in mod 'neoforgedatapackextensions'
+[19:30:54] [main/INFO]: Found 47 annotated classes in mod 'net_fabricmc_mapping-io'
+[19:30:54] [main/INFO]: Found 262 annotated classes in mod 'net_kyori_adventure-api'
+[19:30:54] [main/INFO]: Found 10 annotated classes in mod 'net_kyori_adventure-key'
+[19:30:54] [main/INFO]: Found 2 annotated classes in mod 'net_kyori_adventure-platform-api'
+[19:30:54] [main/INFO]: Found 86 annotated classes in mod 'net_kyori_adventure-platform-mod-shared-fabric-repack'
+[19:30:54] [main/INFO]: Found 7 annotated classes in mod 'net_kyori_adventure-text-logger-slf4j'
+[19:30:54] [main/INFO]: Found 91 annotated classes in mod 'net_kyori_adventure-text-minimessage'
+[19:30:54] [main/INFO]: Found 7 annotated classes in mod 'net_kyori_adventure-text-serializer-ansi'
+[19:30:54] [main/INFO]: Found 19 annotated classes in mod 'net_kyori_adventure-text-serializer-gson'
+[19:30:54] [main/INFO]: Found 8 annotated classes in mod 'net_kyori_adventure-text-serializer-json'
+[19:30:54] [main/INFO]: Found 9 annotated classes in mod 'net_kyori_adventure-text-serializer-plain'
+[19:30:54] [main/INFO]: Found 15 annotated classes in mod 'net_kyori_ansi'
+[19:30:54] [main/INFO]: Found 22 annotated classes in mod 'net_kyori_examination-api'
+[19:30:54] [main/INFO]: Found 3 annotated classes in mod 'net_kyori_examination-string'
+[19:30:54] [main/INFO]: Found 10 annotated classes in mod 'net_kyori_option'
+[19:30:54] [main/INFO]: Found 139 annotated classes in mod 'net_peanuuutz_tomlkt_tomlkt-jvm'
+[19:30:54] [main/INFO]: Found 3 annotated classes in mod 'netherportalfix'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'nightlights'
+[19:30:54] [main/INFO]: Found 5 annotated classes in mod 'noanimaltemptdelay'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'nocturnal-bats'
+[19:30:54] [main/INFO]: Found 6 annotated classes in mod 'noisium'
+[19:30:54] [main/INFO]: Found 34 annotated classes in mod 'notenoughcrashes'
+[19:30:54] [main/INFO]: Found 12 annotated classes in mod 'org_apache_commons_commons-text'
+[19:30:54] [main/INFO]: Found 7 annotated classes in mod 'org_fusesource_jansi_jansi'
+[19:30:54] [main/INFO]: Found 5 annotated classes in mod 'org_javassist_javassist'
+[19:30:54] [main/INFO]: Found 10 annotated classes in mod 'org_jctools_jctools-core'
+[19:30:54] [main/INFO]: Found 1192 annotated classes in mod 'org_jetbrains_kotlin_kotlin-reflect'
+[19:30:54] [main/INFO]: Found 954 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib-jdk7'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib-jdk8'
+[19:30:54] [main/INFO]: Found 37 annotated classes in mod 'org_jetbrains_kotlinx_atomicfu-jvm'
+[19:30:54] [main/INFO]: Found 833 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm'
+[19:30:54] [main/INFO]: Found 448 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-datetime-jvm'
+[19:30:54] [main/INFO]: Found 11 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm'
+[19:30:54] [main/INFO]: Found 68 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-io-core-jvm'
+[19:30:54] [main/INFO]: Found 39 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm'
+[19:30:54] [main/INFO]: Found 226 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-core-jvm'
+[19:30:54] [main/INFO]: Found 136 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-json-jvm'
+[19:30:54] [main/INFO]: Found 22 annotated classes in mod 'org_jline_jline'
+[19:30:54] [main/INFO]: Found 3 annotated classes in mod 'org_json_json'
+[19:30:54] [main/INFO]: Found 2 annotated classes in mod 'org_quiltmc_parsers_gson'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'org_quiltmc_parsers_json'
+[19:30:54] [main/INFO]: Found 12 annotated classes in mod 'org_reflections_reflections'
+[19:30:54] [main/INFO]: Found 114 annotated classes in mod 'org_spongepowered_configurate-core'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'org_spongepowered_configurate-hocon'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'org_yaml_snakeyaml'
+[19:30:54] [main/INFO]: Found 239 annotated classes in mod 'owo'
+[19:30:54] [main/INFO]: Found 2 annotated classes in mod 'io_wispforest_endec_gson'
+[19:30:54] [main/INFO]: Found 2 annotated classes in mod 'io_wispforest_endec_jankson'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'io_wispforest_endec_netty'
+[19:30:54] [main/INFO]: Found 22 annotated classes in mod 'io_wispforest_endec'
+[19:30:54] [main/INFO]: Found 19 annotated classes in mod 'packet_tweaker'
+[19:30:54] [main/INFO]: Found 1 annotated classes in mod 'persistent_parrots'
+[19:30:55] [main/INFO]: Found 224 annotated classes in mod 'pfm'
+[19:30:55] [main/INFO]: Found 8 annotated classes in mod 'ping-wheel'
+[19:30:55] [main/INFO]: Found 36 annotated classes in mod 'placeholder-api'
+[19:30:55] [main/INFO]: Found 42 annotated classes in mod 'player-locator-plus'
+[19:30:55] [main/INFO]: Found 103 annotated classes in mod 'com_akuleshov7_ktoml-core-jvm'
+[19:30:55] [main/INFO]: Found 85 annotated classes in mod 'playeranimator'
+[19:30:55] [main/INFO]: Found 7 annotated classes in mod 'plentyplates'
+[19:30:55] [main/INFO]: Found 35 annotated classes in mod 'polydecorations'
+[19:30:55] [main/INFO]: Found 26 annotated classes in mod 'map-canvas-api'
+[19:30:55] [main/INFO]: Found 21 annotated classes in mod 'factorytools'
+[19:30:55] [main/INFO]: Found 26 annotated classes in mod 'sgui'
+[19:30:55] [main/INFO]: Found 3 annotated classes in mod 'common-protection-api'
+[19:30:55] [main/INFO]: Found 12 annotated classes in mod 'polymer-autohost'
+[19:30:55] [main/INFO]: Found 51 annotated classes in mod 'io_netty_netty-codec-http'
+[19:30:55] [main/INFO]: Found 6 annotated classes in mod 'polymer-blocks'
+[19:30:55] [main/INFO]: Found 12 annotated classes in mod 'polymer-autohost'
+[19:30:55] [main/INFO]: Found 51 annotated classes in mod 'io_netty_netty-codec-http'
+[19:30:55] [main/INFO]: Found 16 annotated classes in mod 'polymer-resource-pack'
+[19:30:55] [main/INFO]: Found 49 annotated classes in mod 'polymer-virtual-entity'
+[19:30:55] [main/INFO]: Found 23 annotated classes in mod 'polymer-common'
+[19:30:55] [main/INFO]: Found 1 annotated classes in mod 'polymer-resource-pack-extras'
+[19:30:55] [main/INFO]: Found 6 annotated classes in mod 'polymer-blocks'
+[19:30:55] [main/INFO]: Found 203 annotated classes in mod 'polymer-core'
+[19:30:55] [main/INFO]: Found 41 annotated classes in mod 'polymer-networking'
+[19:30:55] [main/INFO]: Found 9 annotated classes in mod 'polymer-registry-sync-manipulator'
+[19:30:55] [main/INFO]: Found 23 annotated classes in mod 'polymer-common'
+[19:30:55] [main/INFO]: Found 203 annotated classes in mod 'polymer-core'
+[19:30:55] [main/INFO]: Found 41 annotated classes in mod 'polymer-networking'
+[19:30:55] [main/INFO]: Found 9 annotated classes in mod 'polymer-registry-sync-manipulator'
+[19:30:55] [main/INFO]: Found 41 annotated classes in mod 'polymer-networking'
+[19:30:55] [main/INFO]: Found 9 annotated classes in mod 'polymer-registry-sync-manipulator'
+[19:30:55] [main/INFO]: Found 16 annotated classes in mod 'polymer-resource-pack'
+[19:30:55] [main/INFO]: Found 1 annotated classes in mod 'polymer-resource-pack-extras'
+[19:30:55] [main/INFO]: Found 49 annotated classes in mod 'polymer-virtual-entity'
+[19:30:55] [main/INFO]: Found 18 annotated classes in mod 'potioncauldron'
+[19:30:55] [main/INFO]: Found 495 annotated classes in mod 'puzzleslib'
+[19:30:55] [main/INFO]: Found 27 annotated classes in mod 'resource_backpacks'
+[19:30:55] [main/INFO]: Found 6 annotated classes in mod 'resourceconfigapi'
+[19:30:55] [main/INFO]: Found 95 annotated classes in mod 'resourcefullib'
+[19:30:55] [main/INFO]: Found 6 annotated classes in mod 'com_teamresourceful_yabn'
+[19:30:55] [main/INFO]: Found 1 annotated classes in mod 'com_teamresourceful_bytecodecs'
+[19:30:55] [main/INFO]: Found 4 annotated classes in mod 'resourcelibrary'
+[19:30:55] [main/INFO]: Found 2 annotated classes in mod 'respawnablepets'
+[19:30:55] [main/INFO]: Found 14 annotated classes in mod 'scalablelux'
+[19:30:55] [main/INFO]: Found 12 annotated classes in mod 'sereneseasons'
+[19:30:55] [main/INFO]: Found 18 annotated classes in mod 'server_translations_api'
+[19:30:55] [main/INFO]: Found 19 annotated classes in mod 'packet_tweaker'
+[19:30:55] [main/INFO]: Found 84 annotated classes in mod 'servercore'
+[19:30:55] [main/INFO]: Found 4 annotated classes in mod 'space_arim_dazzleconf_dazzleconf-ext-snakeyaml'
+[19:30:55] [main/INFO]: Found 36 annotated classes in mod 'placeholder-api'
+[19:30:55] [main/INFO]: Found 31 annotated classes in mod 'space_arim_dazzleconf_dazzleconf-core'
+[19:30:55] [main/INFO]: Found 26 annotated classes in mod 'sgui'
+[19:30:55] [main/INFO]: Found 11 annotated classes in mod 'shifting-wares'
+[19:30:55] [main/INFO]: Found 50 annotated classes in mod 'simple_copper_pipes'
+[19:30:55] [main/INFO]: Found 557 annotated classes in mod 'frozenlib'
+[19:30:55] [main/INFO]: Found 3 annotated classes in mod 'simple_snowy_fix'
+[19:30:55] [main/INFO]: Found 33 annotated classes in mod 'skniro_furniture'
+[19:30:55] [main/INFO]: Found 60 annotated classes in mod 'smallships'
+[19:30:55] [main/INFO]: Found 6 annotated classes in mod 'smooth-minecarts'
+[19:30:55] [main/INFO]: Found 8 annotated classes in mod 'sneakycurses'
+[19:30:55] [main/INFO]: Found 1 annotated classes in mod 'snifferride'
+[19:30:55] [main/INFO]: Found 19 annotated classes in mod 'snuffles'
+[19:30:55] [main/INFO]: Found 37 annotated classes in mod 'soul_fire_d'
+[19:30:55] [main/INFO]: Found 31 annotated classes in mod 'space_arim_dazzleconf_dazzleconf-core'
+[19:30:55] [main/INFO]: Found 4 annotated classes in mod 'space_arim_dazzleconf_dazzleconf-ext-snakeyaml'
+[19:30:55] [main/INFO]: Found 7 annotated classes in mod 'spawnanimations'
+[19:30:55] [main/INFO]: Found 23 annotated classes in mod 'spectrelib'
+[19:30:55] [main/INFO]: Found 5 annotated classes in mod 'spookydoors'
+[19:30:55] [main/INFO]: Found 1 annotated classes in mod 'stalkercreepers'
+[19:30:55] [main/INFO]: Found 3 annotated classes in mod 'stoneworks'
+[19:30:55] [main/INFO]: Found 5 annotated classes in mod 'suggestion_tweaker'
+[19:30:55] [main/INFO]: Found 2 annotated classes in mod 'superenderman'
+[19:30:55] [main/INFO]: Found 3 annotated classes in mod 'tameable-foxes'
+[19:30:55] [main/INFO]: Found 14 annotated classes in mod 'terrablender'
+[19:30:55] [main/INFO]: Found 3 annotated classes in mod 'terraform-biome-remapper-api-v1'
+[19:30:55] [main/INFO]: Found 2 annotated classes in mod 'terraform-shapes-api-v1'
+[19:30:55] [main/INFO]: Found 1 annotated classes in mod 'terraform-surfaces-api-v1'
+[19:30:55] [main/INFO]: Found 16 annotated classes in mod 'terraform-wood-api-v1'
+[19:30:55] [main/INFO]: Found 20 annotated classes in mod 'tms'
+[19:30:55] [main/INFO]: Found 2 annotated classes in mod 'twoplayersonehorse'
+[19:30:55] [main/INFO]: Found 20 annotated classes in mod 'undeadnights'
+[19:30:55] [main/INFO]: Found 11 annotated classes in mod 'underlay'
+[19:30:55] [main/INFO]: Found 25 annotated classes in mod 'untitledduckmod'
+[19:30:55] [main/INFO]: Found 11 annotated classes in mod 'useful_brush'
+[19:30:55] [main/INFO]: Found 2 annotated classes in mod 'villagehealthcare'
+[19:30:55] [main/INFO]: Found 6 annotated classes in mod 'visualworkbench'
+[19:30:55] [main/INFO]: Found 28 annotated classes in mod 'watut'
+[19:30:55] [main/INFO]: Found 47 annotated classes in mod 'waystones'
+[19:30:55] [main/INFO]: Found 8 annotated classes in mod 'weakerspiderwebs'
+[19:30:55] [main/INFO]: Found 4 annotated classes in mod 'xxlpackets'
+[19:30:55] [main/INFO]: Found 8 annotated classes in mod 'ydms_redpanda'
+[19:30:55] [main/INFO]: Found 160 annotated classes in mod 'yet_another_config_lib_v3'
+[19:30:55] [main/INFO]: Found 1 annotated classes in mod 'com_twelvemonkeys_common_common-image'
+[19:30:55] [main/INFO]: Found 2 annotated classes in mod 'com_twelvemonkeys_common_common-io'
+[19:30:55] [main/INFO]: Found 3 annotated classes in mod 'com_twelvemonkeys_common_common-lang'
+[19:30:55] [main/INFO]: Found 4 annotated classes in mod 'com_twelvemonkeys_imageio_imageio-metadata'
+[19:30:55] [main/INFO]: Found 3 annotated classes in mod 'com_twelvemonkeys_imageio_imageio-core'
+[19:30:56] [main/INFO]: Found 40 annotated classes in mod 'yungsapi'
+[19:30:56] [main/INFO]: Found 5 annotated classes in mod 'org_javassist_javassist'
+[19:30:56] [main/INFO]: Found 7 annotated classes in mod 'yungsbridges'
+[19:30:56] [main/INFO]: Found 13 annotated classes in mod 'yungsextras'
+[19:30:56] [main/INFO]: Scan completed in 5781 ms!
+[19:30:57] [main/WARN]: Cancelled mixin com.ishland.c2me.fixes.worldgen.threading_issues.mixin.threading_detections.random_instances.MixinWorld. Check debug logs for more information.
+[19:30:59] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[19:30:59] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[19:31:04] [main/INFO]: Vanilla bootstrap took 8201 milliseconds
+[19:31:04] [main/INFO]: Initializing abseil
+[19:31:04] [main/INFO]: Enabling Achievement Optimizer
+[19:31:04] [main/INFO]: AddonsLib Fabric !
+[19:31:05] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[19:31:05] [main/INFO]: [STDOUT]: All 4 have been set properly
+[19:31:05] [main/INFO]: [STDOUT]: forest
+[19:31:05] [main/INFO]: [STDOUT]: flower_forest
+[19:31:05] [main/INFO]: [STDOUT]: birch_forest
+[19:31:05] [main/INFO]: [STDOUT]: old_growth_birch_forest
+[19:31:05] [main/INFO]: [STDOUT]: snowy_taiga
+[19:31:05] [main/INFO]: [STDOUT]: animalgarden_owl: register everything...
+[19:31:05] [main/INFO]: [STDOUT]: All 4 have been set properly
+[19:31:05] [main/INFO]: [STDOUT]: forest
+[19:31:05] [main/INFO]: [STDOUT]: flower_forest
+[19:31:05] [main/INFO]: [STDOUT]: birch_forest
+[19:31:05] [main/INFO]: [STDOUT]: old_growth_birch_forest
+[19:31:05] [main/INFO]: [STDOUT]: animalgarden_porcupine: register everything...
+[19:31:05] [main/INFO]: Initializing Async...
+[19:31:05] [main/INFO]: Initializing Async Config...
+[19:31:05] [main/INFO]: Configuration successfully loaded.
+[19:31:05] [main/INFO]: Async Initialized Successfully!
+[19:31:05] [main/INFO]: Reflections took 40 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:05] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:05] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[19:31:05] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:05] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[19:31:05] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:05] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[19:31:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[19:31:05] [main/INFO]: Biolith for Fabric is initializing...
+[19:31:05] [main/INFO]: Enabling Biolith's TerraBlender compatibility layer.
+[19:31:05] [main/INFO]: Constructing common components for blockrunner:main
+[19:31:06] [main/INFO]: Enabling Cinderscapes' Biolith worldgen module.
+[19:31:06] [main/INFO]: Loading Collective version 8.3.
+[19:31:06] [main/INFO]: Initialized entity types.
+[19:31:06] [main/INFO]: Register Custom Payloads for Networking.
+[19:31:06] [main/INFO]: Deserializing EnderscapeConfig from './config/enderscape.json5'
+[19:31:06] [main/INFO]: Initializing Copper Rails !
+[19:31:06] [main/INFO]: fabric loader environment detected
+[19:31:06] [main/INFO]: Found existing configuration file for TomlConfigManager with name creeper-healing. Loaded values from ./config/creeper-healing.toml
+[19:31:06] [main/INFO]: I will try my best to heal your explosions :)
+[19:31:06] [main/INFO]: Enabled 27 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-88371, MC-89146, MC-93018, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-129909, MC-132878, MC-155509, MC-160095, MC-179072, MC-183990, MC-199467, MC-200418, MC-206922, MC-215530, MC-223153, MC-224729, MC-231743, MC-232869]
+[19:31:06] [main/INFO]: Successfully Debugify'd your game!
+[19:31:06] [main/INFO]: Removing portal checks...
+[19:31:06] [main/INFO]: Constructing common components for easyanvils:main
+[19:31:06] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[19:31:06] [main/INFO]: Constructing common components for easymagic:main
+[19:31:06] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[19:31:06] [main/INFO]: Elytra Revamped is loading...
+[19:31:06] [main/INFO]: YACL Detected, Enabling in-game config page.
+[19:31:06] [main/INFO]: Debug mode is DISABLED - only basic logging active
+[19:31:06] [main/INFO]: [STDOUT]: Hello! Let's do kiln stuff, shall we?
+[19:31:06] [main/INFO]: Loading config...
+[19:31:06] [main/ERROR]: No data fixer registered for magnia_sprout
+[19:31:06] [main/INFO]: Enderscape initialized!
+[19:31:07] [main/INFO]: FastConfigAPI has been initialized
+[19:31:07] [main/INFO]: Constructing common components for fastitemframes:main
+[19:31:07] [main/INFO]: Registering Block
+[19:31:07] [main/INFO]: Registering Item
+[19:31:07] [main/INFO]: Registering Item Sub Predicate
+[19:31:07] [main/INFO]: Registering Block Entity
+[19:31:07] [main/INFO]: Registering Sound Event
+[19:31:07] [main/INFO]: Registering Entity
+[19:31:07] [main/INFO]: Registering Sensor Type
+[19:31:07] [main/INFO]: Registering Memory Module Type
+[19:31:07] [main/INFO]: Registering Feature
+[19:31:07] [main/INFO]: Registering Trunk Placer Type
+[19:31:07] [main/INFO]: Registering Tree Decorator Type
+[19:31:07] [main/INFO]: Registering Trigger Type
+[19:31:07] [main/INFO]: Registering Block State Provider Type
+[19:31:07] [main/INFO]: Registering Block Predicate Type
+[19:31:07] [main/INFO]: Registering Loot Pool Entry Type
+[19:31:07] [main/INFO]: Registering Structure Type
+[19:31:07] [main/INFO]: Registering Structure Piece Type
+[19:31:07] [main/INFO]: Registering Entity Data Serializer
+[19:31:07] [main/INFO]: Registering Loot Item Condition
+[19:31:07] [main/INFO]: Registering Trigger Type
+[19:31:07] [main/INFO]: Registering Entity Sub Predicate
+[19:31:07] [main/INFO]: Registering Mob Effect
+[19:31:07] [main/INFO]: Registering Placement Modifier
+[19:31:07] [main/INFO]: Registering Surface Rule Condition Source
+[19:31:07] [main/INFO]: Deserializing FriendsAndFoesConfig from 'config/friendsandfoes.json'
+[19:31:07] [main/INFO]: Loading config FrozenLibConfig from frozenlib
+[19:31:07] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[19:31:08] [main/INFO]: False Futures has finished registering successfully.
+[19:31:08] [main/WARN]: Method overwrite conflict for method_12121 in lithium.mixins.json:world.chunk_access.ServerChunkCacheMixin from mod lithium, previously written by com.axalotl.async.common.mixin.lithium.LithiumServerChunkCacheMixin. Skipping method.
+[19:31:08] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[19:31:08] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[19:31:09] [main/INFO]: Constructing common components for horseexpert:main
+[19:31:09] [main/INFO]: Get ready for some ILLAGER YAPPING..
+[19:31:09] [main/INFO]: Kinetic.java Initialized!
+[19:31:09] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.0.x (Linux x86_64)
+[19:31:09] [main/INFO]: Ksyxis: Booting... (platform: Fabric/KFabric, manual: false)
+[19:31:09] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.7, time: 0 ms)
+[19:31:09] [main/INFO]: Initializing mod...
+[19:31:09] [main/INFO]: Registering C2S receiver with id labellingcontainers:label_printer_save_packet
+[19:31:09] [main/INFO]: Registering C2S receiver with id labellingcontainers:request_taggable_blocks_config_packet
+[19:31:09] [main/WARN]: Could not run Client Setup (mod is probably running on a Server-Only instance)
+[19:31:09] [main/INFO]: Constructing common components for leavesbegone:main
+[19:31:09] [main/INFO]: Initialize mod Library Ferret
+[19:31:09] [main/INFO]: Initialized mod Library Ferret
+[19:31:09] [main/INFO]: Hello Fabric world!
+[19:31:09] [main/INFO]: Registering items for little-guys
+[19:31:09] [main/INFO]: Registering Item Groups for little-guys
+[19:31:09] [main/INFO]: Registering dispenser behaviors for little-guys
+[19:31:09] [main/INFO]: Registering ModEntities for little-guys
+[19:31:09] [main/INFO]: Registered: acacia_shield
+[19:31:09] [main/INFO]: Registered: bamboo_shield
+[19:31:09] [main/INFO]: Registered: birch_shield
+[19:31:09] [main/INFO]: Registered: cherry_shield
+[19:31:09] [main/INFO]: Registered: crimson_shield
+[19:31:09] [main/INFO]: Registered: dark_oak_shield
+[19:31:09] [main/INFO]: Registered: pale_oak_shield
+[19:31:09] [main/INFO]: Registered: jungle_shield
+[19:31:09] [main/INFO]: Registered: mangrove_shield
+[19:31:09] [main/INFO]: Registered: oak_shield
+[19:31:09] [main/INFO]: Registered: warped_shield
+[19:31:09] [main/INFO]: Macaw's Biomes O' Plenty Loading...
+[19:31:09] [main/INFO]: Macaw's Biomes O' Plenty Is Charged !
+[19:31:10] [main/INFO]: Definitely not up to no good
+[19:31:10] [main/INFO]: Thanks to isXander (https://github.com/isXander) for helping me get into Kotlin from Java :D
+[19:31:10] [main/INFO]: Initializing MonsterEyes!
+[19:31:10] [main/INFO]: Constructing common components for mutantmonsters:main
+[19:31:10] [main/INFO]: Dispatching loading event for config mutantmonsters-common.toml
+[19:31:10] [main/INFO]: Loading Naturally Trimmed config from config file
+[19:31:10] [main/INFO]: Initializing Night Lights
+[19:31:10] [main/INFO]: Registering blocks
+[19:31:10] [main/INFO]: Registering items
+[19:31:10] [main/INFO]: Registering creative tab
+[19:31:10] [main/INFO]: Loading Noisium.
+[19:31:10] [main/INFO]: Blodhgarm: Did you know it took four switcheroos to implement MatrixStackTransformer in the correct package?
+[19:31:10] [main/INFO]: Registering pfm components
+[19:31:10] [main/INFO]: [Ping-Wheel] Init
+[19:31:10] [main/INFO]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[19:31:11] [main/INFO]: hi!
+[19:31:11] [main/INFO]: Constructing common components for plentyplates:main
+[19:31:11] [main/INFO]: Constructing common components for puzzleslib:main
+[19:31:11] [main/INFO]: Config 'appearance.json' from type 'CLIENT' was skipped.
+[19:31:11] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Is up to date!
+[19:31:11] [main/INFO]: [ServerCore] Loaded V1.5.8+1.21.4!
+[19:31:11] [main/INFO]: Trade-Rebalance support is enabled for this version of minecraft.
+[19:31:11] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 1 Datafixer optimizations took 8 milliseconds
+[19:31:11] [main/INFO]: Loading config SimpleCopperPipesConfig from simple_copper_pipes
+[19:31:11] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[19:31:11] [main/INFO]: Registering Mod Items for skniro_furniture
+[19:31:12] [main/ERROR]: No data fixer registered for cabinet_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for drawer_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for bedside_cabinet_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for kitchen_cabinet_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for desk_cabinet_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for oven_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for wall_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for tv_stand_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for fridge_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for kitchen_sink_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for plate_block_entity
+[19:31:12] [main/ERROR]: No data fixer registered for chair_entity
+[19:31:12] [main/ERROR]: No data fixer registered for cushion_entity
+[19:31:12] [main/ERROR]: No data fixer registered for sofa_entity
+[19:31:12] [main/INFO]: Registering Screen Handler for skniro_furniture
+[19:31:12] [main/INFO]: Registering Custom Recipes for skniro_furniture
+[19:31:12] [main/INFO]: Initializing Smooth Minecarts
+[19:31:12] [main/INFO]: Constructing common components for sneakycurses:main
+[19:31:12] [main/INFO]: Registering Mod Items for snifferride
+[19:31:12] [main/INFO]: Deserializing SnufflesConfig from './config/snuffles.json'
+[19:31:12] [main/INFO]: [Spawn Animations] MidnightLib detected!
+[19:31:12] [main/INFO]: [Spawn Animations] Registering server started event ...
+[19:31:12] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
+[19:31:12] [main/INFO]: Hello World! Proceeding with Creeper stalkification
+[19:31:12] [main/INFO]: Constructing common components for stoneworks:main
+[19:31:12] [main/INFO]: Dispatching loading event for config stoneworks-common.toml
+[19:31:14] [main/INFO]: Loaded config tameable-foxes:config in 241ms
+[19:31:14] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19:31:14] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[19:31:14] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[19:31:14] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[19:31:14] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[19:31:14] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[19:31:14] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[19:31:14] [main/INFO]: Registered region fishofthieves:tropical_island to index 4 for type OVERWORLD
+[19:31:14] [main/INFO]: Initializing Undead Nights Mod
+[19:31:14] [main/INFO]: Loading undeadnights horde mobs config
+[19:31:14] [main/INFO]: Default horde mob undeadnights:horde_zombie was read from config.
+[19:31:14] [main/INFO]: Horde mob undeadnights:elite_zombie with chance 3% was read from config.
+[19:31:14] [main/INFO]: Horde mob undeadnights:demolition_zombie with chance 6% was read from config.
+[19:31:14] [main/INFO]: Registering Mod Items for undeadnights
+[19:31:14] [main/INFO]: Registering Sounds for undeadnights
+[19:31:14] [main/INFO]: Constructing common components for visualworkbench:main
+[19:31:14] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[19:31:14] [main/INFO]: Void Lib successfully started!
+[19:31:14] [main/INFO]: [STDOUT]: All 4 have been set properly
+[19:31:14] [main/INFO]: [STDOUT]: Registered Mod Items for ydms_redpanda
+[19:31:14] [main/INFO]: [STDOUT]: bamboo_jungle
+[19:31:14] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[19:31:14] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[19:31:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:31:14] [main/INFO]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
+[19:31:14] [main/INFO]: Running library validation...
+[19:31:14] [main/INFO]: Garbage collectors: [G1 Young Generation, G1 Concurrent GC, G1 Old Generation]
+[19:31:14] [main/WARN]: Distant Horizons: G1 Garbage collector detected. 
+This garbage collector can cause FPS stuttering. 
+It's recommended to use a concurrent garbage collector 
+like ZGC (Java 21+) or Shenandoah (Java 8 through 17) for a smoother experience. 
+
+[19:31:14] [main/INFO]: Distant Horizons, Version: 2.4.3-b
+[19:31:14] [main/INFO]: Registering Fabric Server Events
+[19:31:14] [main/INFO]: Registered mod compatibility accessor for: [Starlight-Fabric-1.18.X].
+[19:31:14] [main/INFO]: Skipping mod compatibility accessor for: [optifine]
+[19:31:14] [main/INFO]: Skipping mod compatibility accessor for: [bclib]
+[19:31:14] [main/INFO]: Registered mod compatibility accessor for: [c2me].
+[19:31:14] [main/INFO]: Skipping mod compatibility accessor for: [iris]
+[19:31:14] [main/INFO]: Distant Horizons server Initialized, adding event subscribers...
+[19:31:14] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[19:31:14] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
+[19:31:15] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[19:31:15] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[19:31:15] [main/WARN]: Pack mr_wither_shrines declared support for versions [57, 61] but declared main format is 48, defaulting to 48
+[19:31:16] [main/WARN]: Pack mr_wither_shrines declared support for versions [57, 61] but declared main format is 48, defaulting to 48
+[19:31:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:31:16] [main/WARN]: Pack mr_wither_shrines declared support for versions [57, 61] but declared main format is 48, defaulting to 48
+[19:31:16] [main/WARN]: Pack mr_wither_shrines declared support for versions [57, 61] but declared main format is 48, defaulting to 48
+[19:31:16] [main/INFO]: Applying datapacks: [vanilla, abseil, animal_feeding_trough, awesomedungeon, awesomedungeonocean, balm, beautify, beekeeperhut, betterdeserttemples, betterdungeons, betterfortresses, betterjungletemples, bettermineshafts, betteroceanmonuments, betterstrongholds, betterwitchhuts, biomesoplenty, birds-boids, blockrunner, bookshelfinspector, chimes, cinderscapes-common, collective, comforts, connectiblechains, cookingforblockheads, copperrails, ctov, deepslatecutting, easyanvils, easymagic, ember_kiln, enchancement, enchantment_lore, enderscape, fabric, fabric-convention-tags-v2, fallingdown, fastitemframes, fishofthieves, friendsandfoes, frozenlib, geophilic, gipples_galore, happy_ghast_legacy, horseexpert, horseman, inventorysorter, jagmkiwis, labellingcontainers, leavesbegone, libraryferret, lithostitched, little-guys, littlejoys, lolmsv, mcwbiomesoplenty, mcwbridges, mcwdoors, mcwfences, mcwlights, mcwpaths, mcwstairs, mcwtrpdoors, mcwwindows, mr_advancement_overload, mr_better_hangingsigns, mr_better_sleep, mr_blasting_plus, mr_boats_upstairs, mr_cheaper_maps, mr_copper_horseshoes, mr_dungeons_andtaverns, mr_fallen_logs, mr_following_horses, mr_good_boypainting, mr_infused_potatos, mr_ketkets_furnicraft, mr_mine_treasure, mr_mob_heads, mr_nice_mobs, mr_plushie_pods, mr_prehistoric_mobs, mr_recibles, mr_revamped_wanderingtrader, mr_ships, mr_skippy_pearls, mr_smoking_plus, mr_spawn_animationscompats, mr_tidal_towns, mr_true_ending, mr_useful_mobs, mr_vanilla_refresh, mr_villager_transportation, mr_wither_shrines, mr_witherswrath, mr_xp_crystals, mutantmonsters, naturescompass, nightlights, nocturnal-bats, persistent_parrots, pfm, player-locator-plus, plentyplates, polydecorations, potioncauldron, resource_backpacks, respawnablepets, revamped_shipwrecks, sereneseasons, server_translations_api, simple_copper_pipes, skniro_furniture, smallships, sneakycurses, snifferride, snuffles, spawnanimations, spookydoors, stoneworks, structory, structory_towers, terrablender, terralith, tumbleweeds, undeadnights, untitledduckmod, unwrecked_ships_plus, useful_brush, visualworkbench, waystones, xprewardsystem, ydms_redpanda, yungsapi, yungsbridges, yungsextras]
+[19:31:17] [main/INFO]: Data Hash for Game Data and Variant List matched, skipping generation
+[19:31:18] [main/WARN]: Any alias warnings about trim_material which follow this message are harmless.
+[19:31:18] [main/WARN]: Adding cinderscapes:rose_quartz as an alias for cinderscapes:cinderscapes_rose_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
+[19:31:18] [main/WARN]: Adding cinderscapes:smoky_quartz as an alias for cinderscapes:cinderscapes_smoky_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
+[19:31:18] [main/WARN]: Adding cinderscapes:sulfur_quartz as an alias for cinderscapes:cinderscapes_sulfur_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 25, separation: 10, salt: 354415156, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 25, separation: 10, salt: 254145856, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 25, separation: 10, salt: 474155156, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 25, separation: 10, salt: 25482856, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 25, separation: 10, salt: 35482856, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 25, separation: 10, salt: 254835856, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 25, separation: 10, salt: 294215156, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 25, separation: 10, salt: 15482856, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 25, separation: 10, salt: 45482856, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[19:31:19] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 25, separation: 10, salt: 40842806, useValueFromConfiguration: true}
+[19:31:20] [Worker-Main-1/ERROR]: Couldn't parse data file 'sklps:movement/riding_boat' from 'sklps:predicate/movement/riding_boat.json': DataResult.Error['Failed to get element minecraft:boat': class_215[predicate=Optional[class_2048[entityType=Optional.empty, distanceToPlayer=Optional.empty, movement=Optional.empty, location=class_9777[located=Optional.empty, steppingOn=Optional.empty, affectsMovement=Optional.empty], effects=Optional.empty, nbt=Optional.empty, flags=Optional.empty, equipment=Optional.empty, subPredicate=Optional[class_4553[level=class_2100[min=Optional.empty, max=Optional.empty, minSq=Optional.empty, maxSq=Optional.empty], gameType=class_9789[types=[SURVIVAL, ADVENTURE]], stats=[], recipes={}, advancements={}, lookingAt=Optional.empty, input=Optional.empty]], periodicTick=Optional.empty, vehicle=Optional[class_2048[entityType=Optional[class_2050[types=DirectSet[[]]]], distanceToPlayer=Optional.empty, movement=Optional.empty, location=class_9777[located=Optional.empty, steppingOn=Optional.empty, affectsMovement=Optional.empty], effects=Optional.empty, nbt=Optional.empty, flags=Optional.empty, equipment=Optional.empty, subPredicate=Optional.empty, periodicTick=Optional.empty, vehicle=Optional.empty, passenger=Optional.empty, targetedEntity=Optional.empty, team=Optional.empty, slots=Optional.empty]], passenger=Optional.empty, targetedEntity=Optional.empty, team=Optional.empty, slots=Optional.empty]], entityTarget=THIS]]
+[19:31:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/m_trader_revamp:trades/random}.pools[0].entries[1]->{m_trader_revamp:trades/mesa}.pools[2].entries[6]->{inline}.pools[0].entries[3]: Unknown loot table called m_trader_revamp:mini_blocks/acaica_planks
+[19:31:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/m_trader_revamp:trades/mesa}.pools[2].entries[6]->{inline}.pools[0].entries[3]: Unknown loot table called m_trader_revamp:mini_blocks/acaica_planks
+[19:31:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/m_trader_revamp:trades/random}.pools[0].entries[2]->{m_trader_revamp:trades/ocean}.pools[6].entries[9]: Unknown loot table called m_trader_revamp:items/loot_barrel
+[19:31:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/m_trader_revamp:trades/ocean}.pools[6].entries[9]: Unknown loot table called m_trader_revamp:items/loot_barrel
+[19:31:22] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack mr_recibles: stonecutter:recipe/wood/oak/oak_wood_from_stonecutting - Copy.json, ignoring
+[19:31:22] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack mr_recibles: recipe:recipe/bundle - Copy.json, ignoring
+[19:31:22] [Worker-Main-3/WARN]: Found data map file for non-existent data map type 'neoforge:compostables' on registry 'minecraft:item'.
+[19:31:22] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:crafting_shaped/empty_duck_sack' from 'untitledduckmod:recipe/crafting_shaped/empty_duck_sack.json': DataResult.Error['Map entry 'L' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:leather"}]; Second: Failed to parse either. First: Not a string: {"item":"minecraft:leather"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:leather"}; Second: Not a string: {"item":"minecraft:leather"}']
+[19:31:22] [Worker-Main-1/ERROR]: Couldn't parse data file 'recipe:totem' from 'recipe:recipe/totem.json': DataResult.Error['Invalid pattern: too many columns, 3 is maximum']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:smoking/cooked_goose' from 'untitledduckmod:recipe/smoking/cooked_goose.json': DataResult.Error['Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"untitledduckmod:raw_goose"}]; Second: Failed to parse either. First: Not a string: {"item":"untitledduckmod:raw_goose"}; Second: Failed to parse either. First: Not a json array: {"item":"untitledduckmod:raw_goose"}; Second: Not a string: {"item":"untitledduckmod:raw_goose"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:campfire/cooked_duck' from 'untitledduckmod:recipe/campfire/cooked_duck.json': DataResult.Error['Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"untitledduckmod:raw_duck"}]; Second: Failed to parse either. First: Not a string: {"item":"untitledduckmod:raw_duck"}; Second: Failed to parse either. First: Not a json array: {"item":"untitledduckmod:raw_duck"}; Second: Not a string: {"item":"untitledduckmod:raw_duck"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:smelting/cooked_duck' from 'untitledduckmod:recipe/smelting/cooked_duck.json': DataResult.Error['Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"untitledduckmod:raw_duck"}]; Second: Failed to parse either. First: Not a string: {"item":"untitledduckmod:raw_duck"}; Second: Failed to parse either. First: Not a json array: {"item":"untitledduckmod:raw_duck"}; Second: Not a string: {"item":"untitledduckmod:raw_duck"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:crafting_shaped/duck_cake' from 'untitledduckmod:recipe/crafting_shaped/duck_cake.json': DataResult.Error['Map entry 'A' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:milk_bucket"}]; Second: Failed to parse either. First: Not a string: {"item":"minecraft:milk_bucket"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:milk_bucket"}; Second: Not a string: {"item":"minecraft:milk_bucket"}']
+[19:31:23] [Worker-Main-2/ERROR]: Couldn't parse data file 'minecraft:recipes/map' from 'minecraft:advancement/recipes/map.json': DataResult.Error['No key criteria in MapLike[{"type":"minecraft:crafting_shaped","category":"misc","pattern":["###","#X#","###"],"key":{"#":{"item":"minecraft:paper"},"X":[{"item":"minecraft:black_dye"},{"item":"minecraft:ink_sac"}]},"result":{"id":"minecraft:map","count":1}}]']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:crafting_shaped/arrow' from 'untitledduckmod:recipe/crafting_shaped/arrow.json': DataResult.Error['Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:stick"}]; Second: Failed to parse either. First: Not a string: {"item":"minecraft:stick"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:stick"}; Second: Not a string: {"item":"minecraft:stick"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'snuffles:snuffle_fluff_carpet_from_snuffle_fluff' from 'snuffles:recipe/snuffle_fluff_carpet_from_snuffle_fluff.json': DataResult.Error['Not a JSON object: "snuffles:snuffle_fluff"']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'recipe:anvil' from 'recipe:recipe/anvil.json': DataResult.Error['Invalid pattern: too many columns, 3 is maximum']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'recipe:bundle' from 'recipe:recipe/bundle.json': DataResult.Error['Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:leather"}]; Second: Failed to parse either. First: Not a string: {"item":"minecraft:leather"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:leather"}; Second: Not a string: {"item":"minecraft:leather"}']
+[19:31:23] [Worker-Main-2/ERROR]: Couldn't parse data file 'pack:root' from 'pack:advancement/root.json': DataResult.Error['Not a JSON object: 1 missed input: {"minecraft:custom_model_data":1} missed input: {"Eat Infused Potato":{"trigger":"minecraft:consume_item","conditions":{"item":{"items":"minecraft:potato","components":{"minecraft:custom_model_data":1}}}}}; Not a JSON object: 1 missed input: {"minecraft:custom_model_data":1}': class_161[parent=Optional.empty, display=Optional[net.minecraft.class_185@6ae7fa5c], rewards=class_170[experience=0, loot=[], recipes=[], function=Optional[net.minecraft.class_2159@3fc78e78]], criteria={Eat Infused Potato=class_175[trigger=net.minecraft.class_2010@7505019c, triggerInstance=class_2012[player=Optional.empty, item=Optional[class_2073[items=Optional[DirectSet[[Reference{ResourceKey[minecraft:item / minecraft:potato]=minecraft:potato}]]], count=class_2100[min=Optional.empty, max=Optional.empty, minSq=Optional.empty, maxSq=Optional.empty], components=[], subPredicates={}]]]]}, requirements=[[Eat Infused Potato]], sendsTelemetryEvent=false, name=Optional[translation{key='chat.square_brackets', args=[literal{Potato SMP}[style={hoverEvent=class_8826[action=<action show_text>, value=literal{Potato SMP}[style={color=dark_purple}, siblings=[literal{
+}, literal{Start a brand new adventure by eating a Infused Potato!}[style={color=gold}]]]]}]]}[style={color=dark_purple}]]]]
+[19:31:23] [Worker-Main-2/ERROR]: Couldn't parse data file 'pack:r_corrupt' from 'pack:advancement/r_corrupt.json': DataResult.Error['Not a JSON object: 3 missed input: {"minecraft:custom_model_data":3} missed input: {"Eat Corrupt Potato":{"trigger":"minecraft:consume_item","conditions":{"item":{"items":"minecraft:potato","components":{"minecraft:custom_model_data":3}}}}}; Not a JSON object: 3 missed input: {"minecraft:custom_model_data":3}': class_161[parent=Optional[pack:root], display=Optional[net.minecraft.class_185@36468d2a], rewards=class_170[experience=0, loot=[], recipes=[], function=Optional[net.minecraft.class_2159@4c067879]], criteria={Eat Corrupt Potato=class_175[trigger=net.minecraft.class_2010@7505019c, triggerInstance=class_2012[player=Optional.empty, item=Optional[class_2073[items=Optional[DirectSet[[Reference{ResourceKey[minecraft:item / minecraft:potato]=minecraft:potato}]]], count=class_2100[min=Optional.empty, max=Optional.empty, minSq=Optional.empty, maxSq=Optional.empty], components=[], subPredicates={}]]]]}, requirements=[[Eat Corrupt Potato]], sendsTelemetryEvent=false, name=Optional[translation{key='chat.square_brackets', args=[literal{Corrupt Potato}[style={hoverEvent=class_8826[action=<action show_text>, value=literal{Corrupt Potato}[style={color=green}, siblings=[literal{
+}, literal{I sense a disturbance in the force...!}[style={color=dark_purple}]]]]}]]}[style={color=green}]]]]
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:crafting_shaped/pumpkin_pie' from 'untitledduckmod:recipe/crafting_shaped/pumpkin_pie.json': DataResult.Error['List is too short: 0, expected range [1-9]']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:crafting_shaped/goose_cake' from 'untitledduckmod:recipe/crafting_shaped/goose_cake.json': DataResult.Error['Map entry 'A' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:milk_bucket"}]; Second: Failed to parse either. First: Not a string: {"item":"minecraft:milk_bucket"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:milk_bucket"}; Second: Not a string: {"item":"minecraft:milk_bucket"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:smelting/cooked_goose' from 'untitledduckmod:recipe/smelting/cooked_goose.json': DataResult.Error['Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"untitledduckmod:raw_goose"}]; Second: Failed to parse either. First: Not a string: {"item":"untitledduckmod:raw_goose"}; Second: Failed to parse either. First: Not a json array: {"item":"untitledduckmod:raw_goose"}; Second: Not a string: {"item":"untitledduckmod:raw_goose"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'minecraft:glass_from_blasting_sand' from 'minecraft:recipe/glass_from_blasting_sand.json': DataResult.Error['Failed to parse either. First: Not a JSON object: "minecraft:smelts_to_glass"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "minecraft:smelts_to_glass"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:smelts_to_glass']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'recipe:crafting_recipe' from 'recipe:recipe/crafting_recipe.json': DataResult.Error['Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:stone"}]; Second: Failed to parse either. First: Not a string: {"item":"minecraft:stone"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:stone"}; Second: Not a string: {"item":"minecraft:stone"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'beautify:from_iron_blinds' from 'beautify:recipe/from_iron_blinds.json': DataResult.Error['Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"beautify:iron_blinds"}]; Second: Failed to parse either. First: Not a string: {"item":"beautify:iron_blinds"}; Second: Failed to parse either. First: Not a json array: {"item":"beautify:iron_blinds"}; Second: Not a string: {"item":"beautify:iron_blinds"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'minecraft:repair_item' from 'minecraft:recipe/repair_item.json': DataResult.Error['Not a JSON object: null']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'minecraft:map' from 'minecraft:recipe/map.json': DataResult.Error['Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:paper"}]; Second: Failed to parse either. First: Not a string: {"item":"minecraft:paper"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:paper"}; Second: Not a string: {"item":"minecraft:paper"}']
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:campfire/cooked_goose' from 'untitledduckmod:recipe/campfire/cooked_goose.json': DataResult.Error['Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"untitledduckmod:raw_goose"}]; Second: Failed to parse either. First: Not a string: {"item":"untitledduckmod:raw_goose"}; Second: Failed to parse either. First: Not a json array: {"item":"untitledduckmod:raw_goose"}; Second: Not a string: {"item":"untitledduckmod:raw_goose"}']
+[19:31:23] [Worker-Main-2/ERROR]: Couldn't parse data file 'pack:r_holy' from 'pack:advancement/r_holy.json': DataResult.Error['Not a JSON object: 2 missed input: {"minecraft:custom_model_data":2} missed input: {"Eat Holy Potato":{"trigger":"minecraft:consume_item","conditions":{"item":{"items":"minecraft:potato","components":{"minecraft:custom_model_data":2}}}}}; Not a JSON object: 2 missed input: {"minecraft:custom_model_data":2}': class_161[parent=Optional[pack:root], display=Optional[net.minecraft.class_185@1839ae93], rewards=class_170[experience=0, loot=[], recipes=[], function=Optional[net.minecraft.class_2159@536e4efd]], criteria={Eat Holy Potato=class_175[trigger=net.minecraft.class_2010@7505019c, triggerInstance=class_2012[player=Optional.empty, item=Optional[class_2073[items=Optional[DirectSet[[Reference{ResourceKey[minecraft:item / minecraft:potato]=minecraft:potato}]]], count=class_2100[min=Optional.empty, max=Optional.empty, minSq=Optional.empty, maxSq=Optional.empty], components=[], subPredicates={}]]]]}, requirements=[[Eat Holy Potato]], sendsTelemetryEvent=false, name=Optional[translation{key='chat.square_brackets', args=[literal{Holy Potato}[style={hoverEvent=class_8826[action=<action show_text>, value=literal{Holy Potato}[style={color=green}, siblings=[literal{
+}, literal{What! Are you a angel?}[style={color=dark_purple}]]]]}]]}[style={color=green}]]]]
+[19:31:23] [Worker-Main-1/ERROR]: Couldn't parse data file 'untitledduckmod:smoking/cooked_duck' from 'untitledduckmod:recipe/smoking/cooked_duck.json': DataResult.Error['Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"untitledduckmod:raw_duck"}]; Second: Failed to parse either. First: Not a string: {"item":"untitledduckmod:raw_duck"}; Second: Failed to parse either. First: Not a json array: {"item":"untitledduckmod:raw_duck"}; Second: Not a string: {"item":"untitledduckmod:raw_duck"}']
+[19:31:24] [Worker-Main-2/ERROR]: Couldn't parse data file 'luistercorp:troncos/tiendas' from 'luistercorp:advancement/troncos/tiendas.json': DataResult.Error['Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "luistercorp:tiendas"; Second: Failed to get element luistercorp:tiendas missed input: {"tiendas":{"trigger":"minecraft:location","conditions":{"player":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"location":{"structures":"luistercorp:tiendas"}}}]}}}': class_161[parent=Optional[luistercorp:troncos/troncos], display=Optional[net.minecraft.class_185@140b3d1c], rewards=class_170[experience=0, loot=[], recipes=[], function=Optional.empty], criteria={tiendas=class_175[trigger=net.minecraft.class_2135@320b3e94, triggerInstance=class_2137[player=Optional[net.minecraft.class_5258@275919fc]]]}, requirements=[[tiendas]], sendsTelemetryEvent=false, name=Optional[translation{key='chat.square_brackets', args=[literal{Trip With Friends}[style={hoverEvent=class_8826[action=<action show_text>, value=literal{Trip With Friends}[style={color=dark_purple}, siblings=[literal{
+}, literal{Find a Camping Store}]]]}]]}[style={color=dark_purple}]]]]
+[19:31:24] [Worker-Main-2/ERROR]: Couldn't parse data file 'pack:corrupt_potato' from 'pack:advancement/corrupt_potato.json': DataResult.Error['Not a JSON object: 3 missed input: {"minecraft:custom_model_data":3} missed input: {"Eat Corrupt Potato":{"trigger":"minecraft:consume_item","conditions":{"item":{"items":"minecraft:potato","components":{"minecraft:custom_model_data":3}}}}}': class_161[parent=Optional.empty, display=Optional.empty, rewards=class_170[experience=5, loot=[], recipes=[], function=Optional[net.minecraft.class_2159@59f3c798]], criteria={Eat Corrupt Potato=class_175[trigger=net.minecraft.class_2010@7505019c, triggerInstance=class_2012[player=Optional.empty, item=Optional[class_2073[items=Optional[DirectSet[[Reference{ResourceKey[minecraft:item / minecraft:potato]=minecraft:potato}]]], count=class_2100[min=Optional.empty, max=Optional.empty, minSq=Optional.empty, maxSq=Optional.empty], components=[], subPredicates={}]]]]}, requirements=[[Eat Corrupt Potato]], sendsTelemetryEvent=false, name=Optional.empty]]
+[19:31:24] [Worker-Main-2/ERROR]: Couldn't parse data file 'pack:holy_potato' from 'pack:advancement/holy_potato.json': DataResult.Error['Not a JSON object: 2 missed input: {"minecraft:custom_model_data":2} missed input: {"Eat Corrupt Potato":{"trigger":"minecraft:consume_item","conditions":{"item":{"items":"minecraft:potato","components":{"minecraft:custom_model_data":2}}}}}': class_161[parent=Optional.empty, display=Optional.empty, rewards=class_170[experience=5, loot=[], recipes=[], function=Optional[net.minecraft.class_2159@1be8d4c]], criteria={Eat Corrupt Potato=class_175[trigger=net.minecraft.class_2010@7505019c, triggerInstance=class_2012[player=Optional.empty, item=Optional[class_2073[items=Optional[DirectSet[[Reference{ResourceKey[minecraft:item / minecraft:potato]=minecraft:potato}]]], count=class_2100[min=Optional.empty, max=Optional.empty, minSq=Optional.empty, maxSq=Optional.empty], components=[], subPredicates={}]]]]}, requirements=[[Eat Corrupt Potato]], sendsTelemetryEvent=false, name=Optional.empty]]
+[19:31:25] [main/INFO]: Loaded 9736 recipes
+[19:31:25] [main/ERROR]: Failed to load function hexbp:ticko
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Invalid or unknown entity type 'origins:enderian_pearl' at position 19: ...s @e[type=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Invalid or unknown entity type 'origins:enderian_pearl' at position 19: ...s @e[type=<--[HERE]
+	at knot/net.minecraft.class_2158.method_9195(class_2158.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5349.method_29451(class_5349.java:87) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[19:31:25] [main/ERROR]: Failed to load function vanilla_refresh:other_features/gamerules/refresh/modified
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 128: Invalid chat component: Unterminated array at line 1 column 155 path $[4]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json at position 305: ...},"color":<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 128: Invalid chat component: Unterminated array at line 1 column 155 path $[4]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json at position 305: ...},"color":<--[HERE]
+	at knot/net.minecraft.class_2158.method_9195(class_2158.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5349.method_29451(class_5349.java:87) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[19:31:25] [main/ERROR]: Failed to load function m_trader_revamp:_debug/give/loot_barrel
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / m_trader_revamp:items/loot_barrel] at position 51: ...oot_barrel<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / m_trader_revamp:items/loot_barrel] at position 51: ...oot_barrel<--[HERE]
+	at knot/net.minecraft.class_2158.method_9195(class_2158.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5349.method_29451(class_5349.java:87) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[19:31:25] [main/ERROR]: Failed to load function pack:crown
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:attribute_modifiers' component: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.max_health' at position 551: ...modifiers=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:attribute_modifiers' component: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.max_health' at position 551: ...modifiers=<--[HERE]
+	at knot/net.minecraft.class_2158.method_9195(class_2158.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5349.method_29451(class_5349.java:87) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[19:31:25] [main/INFO]: Loaded 7635 advancements
+[19:31:25] [main/INFO]: Config 'compatible-containers-common.json' was successfully loaded
+[19:31:25] [main/INFO]: Loaded 1 moobloom variants
+[19:31:25] [main/INFO]: Loaded 32 entity animations
+[19:31:25] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 204 translation keys
+[19:31:25] [main/INFO]: Parsed brushable entities in useful_brush:brushable/entity/armadillo.json
+[19:31:25] [main/INFO]: Parsed brushable entities in useful_brush:brushable/entity/chicken.json
+[19:31:25] [main/INFO]: Parsed brushable entities in useful_brush:brushable/entity/parrot.json
+[19:31:25] [main/INFO]: Parsed brushable entities in useful_brush:brushable/entity/turtle.json
+[19:31:25] [main/INFO]: Loaded 4 brushable entities
+[19:31:25] [main/INFO]: Parsed brushable blocks in useful_brush:brushable/block/destroy.json
+[19:31:25] [main/INFO]: Parsed brushable blocks in useful_brush:brushable/block/infested.json
+[19:31:25] [main/INFO]: Parsed brushable blocks in useful_brush:brushable/block/mossy_cobblestone.json
+[19:31:25] [main/INFO]: Parsed brushable blocks in useful_brush:brushable/block/mossy_stone_bricks.json
+[19:31:25] [main/INFO]: Loaded 21 brushable blocks
+[19:31:25] [main/WARN]: Recipe polydecorations:canvas_clone can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/basalt can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/blackstone can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/bone_block can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/clay can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/crimson_nylium can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/dirt can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/end_stone can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/grass_block can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/gravel can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/ice can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/magma_block can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/moss_block can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/mud can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/mycelium can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/netherrack can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/podzol can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/red_sand can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/red_sandstone can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/sand can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/sandstone can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/snow_block can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/soul_sand can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/soul_soil can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/stone can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/terracotta can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:dig_spot/warped_nylium can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:drop_rush/beetroots can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:drop_rush/carrots can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:drop_rush/potatoes can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:drop_rush/sweet_berry_bush can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:drop_rush/wheat can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:fishing_spot/water can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/coal_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/copper_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/deepslate_coal_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/deepslate_copper_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/deepslate_diamond_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/deepslate_emerald_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/deepslate_gold_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/deepslate_iron_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/deepslate_lapis_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/deepslate_redstone_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/diamond_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/emerald_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/gold_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/iron_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/lapis_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/nether_gold_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/nether_quartz_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe littlejoys:gold_rush/redstone_ore can't be placed due to empty ingredients and will be ignored
+[19:31:25] [main/WARN]: Recipe comforts:shapeless_rope_and_nail can't be placed due to empty ingredients and will be ignored
+[19:31:26] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[19:31:26] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[19:31:27] [main/INFO]: Applied 2935 biome modifications to 248 of 248 new biomes in 182.4 ms
+[19:31:27] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[19:31:27] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[19:31:27] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
+[19:31:27] [Server thread/INFO]: Dispatching loading event for config mutantmonsters-server.toml
+[19:31:27] [Server thread/INFO]: Dispatching loading event for config sneakycurses-server.toml
+[19:31:27] [Server thread/INFO]: Initialising config for [DistantHorizons]
+[19:31:27] [Server thread/ERROR]: Unable to convert config value [{}] from [class java.lang.String] to [class java.util.HashMap] for config [mapTest], the default config value will be used instead [{}]. Make sure a converter is defined in [ConfigTypeConverters].
+[19:31:27] [Server thread/INFO]: [DistantHorizons] Config initialised
+[19:31:27] [Server thread/INFO]: Applying config to loggers
+[19:31:27] [Server thread/INFO]: Running Delayed setup...
+[19:31:27] [Server thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[19:31:27] [Server thread/INFO]: Checking for Distant Horizons update
+[19:31:28] [Server thread/INFO]: New version (2.4.5-b) of Distant Horizons is available
+[19:31:28] [Server thread/INFO]: Download link: https://cdn.modrinth.com/data/uCdwusMi/versions/NhMXwQCV/DistantHorizons-2.4.5-b-1.21.4-fabric-neoforge.jar
+[19:31:28] [Server thread/INFO]: Distant Horizons server Initialized at 
+[19:31:28] [Server thread/INFO]: Async Setting up thread-pool...
+[19:31:28] [Server thread/INFO]: Initialized Pool with 4 threads
+[19:31:28] [Console thread/INFO]: Initialized Better Fabric Console console thread.
+[19:31:28] [Server thread/INFO]: Rescheduled 0 explosion event(s)
+[19:31:28] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry is about to freeze
+[19:31:28] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry was frozen
+[19:31:28] [Server thread/INFO]: Started [DhServerWorld] of type [SERVER_ONLY].
+[19:31:28] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:31:28] [Server console handler/INFO]: Shutting down vanilla console thread...
+[19:31:28] [Server thread/INFO]: Loading properties
+[19:31:28] [Server thread/INFO]: Default game type: SURVIVAL
+[19:31:28] [Server thread/INFO]: Generating keypair
+[19:31:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:31:28] [Server thread/INFO]: Using epoll channel type
+[19:31:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:31:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:31:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:31:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:31:28] [Server thread/INFO]: Preparing level "world"
+[19:31:29] [Server thread/WARN]: Cancelled mixin com.axalotl.async.common.mixin.vmp.VMPChunkMapMixin. Check debug logs for more information.
+[19:31:29] [Server thread/WARN]: Cancelled mixin com.ishland.c2me.fixes.general.threading_issues.mixin.asynccatchers.MixinThreadedAnvilChunkStorage. Check debug logs for more information.
+[19:31:29] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 637.5 ms
+[19:31:30] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[19:31:30] [Server thread/INFO]: Loading overlays for world: minecraft:overworld
+[19:31:30] [Server thread/INFO]: No existing overlay save file found
+[19:31:30] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:overworld
+[19:31:30] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(./world/data)]].
+[19:31:30] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[19:31:30] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[19:31:30] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Batch Chunk Generator initialized
+[19:31:30] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Creating world gen queue
+[19:31:30] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Created world gen queue
+[19:31:30] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Set world gen queue for level [minecraft:overworld].
+[19:31:30] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 5.814 ms
+[19:31:30] [Server thread/INFO]: Loading overlays for world: minecraft:the_end
+[19:31:30] [Server thread/INFO]: No existing overlay save file found
+[19:31:30] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_end
+[19:31:30] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[19:31:30] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Batch Chunk Generator initialized
+[19:31:30] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Creating world gen queue
+[19:31:30] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Created world gen queue
+[19:31:30] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Set world gen queue for level [minecraft:the_end].
+[19:31:30] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[19:31:30] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(./world/data;./world/DIM1/data)]].
+[19:31:30] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 5.613 ms
+[19:31:30] [Server thread/INFO]: Loading overlays for world: minecraft:the_nether
+[19:31:30] [Server thread/INFO]: No existing overlay save file found
+[19:31:30] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_nether
+[19:31:30] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[19:31:30] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Batch Chunk Generator initialized
+[19:31:30] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Creating world gen queue
+[19:31:30] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Created world gen queue
+[19:31:30] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Set world gen queue for level [minecraft:the_nether].
+[19:31:30] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[19:31:30] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(./world/DIM-1/data;./world/data;./world/DIM1/data)]].
+[19:31:30] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=method_3774,CANCELLABLE=false], server: net.minecraft.class_3176@42a2e0d5)
+[19:31:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:31:30] [Server thread/INFO]: [STDOUT]: [ScalableLux] Lighting scaling is enabled in externally managed mode
+[19:31:30] [Server thread/INFO]: Time elapsed: 28 ms
+[19:31:30] [Server thread/INFO]: Done (1.978s)! For help, type "help"
+[19:31:30] [Server thread/WARN]: Dedicated server took 70.457 seconds to load
+[19:31:31] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[19:31:31] [Server thread/INFO]: Start loading plugin from Beautify: io.github.suel_ki.beautify.compat.jade.JadePlugin
+[19:31:31] [Server thread/INFO]: Start loading plugin from Cooking for Blockheads: net.blay09.mods.cookingforblockheads.fabric.compat.FabricJadeCookingForBlockheadsPlugin
+[19:31:31] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[19:31:31] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[19:31:31] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[19:31:31] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[19:31:31] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[19:31:31] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[19:31:31] [Server thread/ERROR]: Error loading plugin at null
+net.fabricmc.loader.api.EntrypointException: Exception while loading entries for entrypoint 'jade' provided by 'underlay'
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:56) ~[fabric-loader-0.18.2.jar:?]
+	at knot/snownee.jade.util.CommonProxy.lambda$loadComplete$6(CommonProxy.java:436) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at knot/snownee.jade.util.CommonProxy.loadComplete(CommonProxy.java:432) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.util.CommonProxy.lambda$onInitialize$11(CommonProxy.java:645) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$2(ServerLifecycleEvents.java:49) ~[fabric-lifecycle-events-v1-2.5.4+bf2a60eb04-b4ff52bc5028a975.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.handler$cih000$fabric-lifecycle-events-v1$afterSetupServer(MinecraftServer.java:6204) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:682) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade.UnderlayJadePlugin in environment type SERVER
+	at net.fabricmc.loader.impl.transformer.FabricTransformer.transform(FabricTransformer.java:61) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPreMixinClassByteArray(KnotClassDelegate.java:475) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:428) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.18.2.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:536) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:515) ~[?:?]
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.18.2.jar:?]
+	... 9 more
+[19:31:31] [Server thread/INFO]: Start loading plugin from Untitled Duck Mod: net.untitledduckmod.compat.jade.JadePlugin
+[19:31:31] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[19:31:31] [Server thread/INFO]: [Spawn Animations] Sending global config to world ...
+[19:31:45] [Server thread/INFO]: [Not Secure] [Server] Revamped Wandering Traders loaded
+[19:31:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18116ms or 362 ticks behind
+[19:31:49] [Server thread/WARN]: UUID of added entity already exists: class_8122['gm.math_entity'/25, l='ServerLevel[world]', x=29999999.50, y=0.00, z=91665.50]
+[19:32:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:33:52] [Server thread/INFO]: Gegul[/100.86.74.26:62906] logged in with entity id 55 at (-82.77577632704916, 80.0, 71.51153879047972)
+[19:33:52] [Server thread/INFO]: Syncing Server Configs with Client
+[19:33:52] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[19:33:53] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[19:33:53] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[19:33:53] [Server thread/INFO]: Player [Gegul] joined.
+[19:33:53] [Server thread/INFO]: [38;2;255;255;85mGegul joined the game[0m
+[19:33:54] [Server thread/INFO]: Channel update: Gegul -> default
+[19:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[19:37:31] [Async-Tick-Pool-Thread-2/ERROR]: Error in async tick, switching to synchronous Entity Type: entity.fishofthieves.splashtail, UUID: 4df43717-b293-4a88-8c69-c5ab12fd34e4
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: No value present
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1807) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143) ~[?:?]
+	at knot/com.stevekung.fishofthieves.entity.ai.behavior.MergeOtherFlock.getNearestLeader(MergeOtherFlock.java:101) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.ai.behavior.MergeOtherFlock.checkExtraStartConditions(MergeOtherFlock.java:26) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.ai.behavior.MergeOtherFlock.method_18919(MergeOtherFlock.java:14) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/net.minecraft.class_4097.method_18922(class_4097.java:47) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4095.method_18891(class_4095.java:1236) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.ai.AbstractSchoolingThievesFishAi.customServerAiStep(AbstractSchoolingThievesFishAi.java:64) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.animal.Splashtail.method_5958(Splashtail.java:69) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/net.minecraft.class_1308.method_6023(class_1308.java:821) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1309.method_6007(class_1309.java:2870) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1308.method_6007(class_1308.java:575) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1422.method_6007(class_1422.java:134) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1309.method_5773(class_1309.java:2606) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1308.method_5773(class_1308.java:366) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1425.method_5773(class_1425.java:75) ~[server-intermediary.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.AbstractSchoolingThievesFish.method_5773(AbstractSchoolingThievesFish.java:134) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/net.minecraft.class_3218.method_18762(class_3218.java:762) ~[server-intermediary.jar:?]
+	at knot/com.axalotl.async.common.ParallelProcessor.performAsyncEntityTick(ParallelProcessor.java:142) ~[async-fabric-0.1.7+alpha.7-1.21.4.jar:?]
+	at knot/com.axalotl.async.common.ParallelProcessor.lambda$callEntityTick$3(ParallelProcessor.java:84) ~[async-fabric-0.1.7+alpha.7-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	... 6 more
+[19:40:02] [Async-Tick-Pool-Thread-4/ERROR]: Error in async tick, switching to synchronous Entity Type: entity.fishofthieves.wildsplash, UUID: cb2896a6-d9d7-4bc2-bc2f-654456dd6ac8
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: No value present
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1807) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143) ~[?:?]
+	at knot/com.stevekung.fishofthieves.entity.ai.behavior.MergeOtherFlock.getNearestLeader(MergeOtherFlock.java:101) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.ai.behavior.MergeOtherFlock.checkExtraStartConditions(MergeOtherFlock.java:26) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.ai.behavior.MergeOtherFlock.method_18919(MergeOtherFlock.java:14) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/net.minecraft.class_4097.method_18922(class_4097.java:47) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4095.method_18891(class_4095.java:1236) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.ai.AbstractSchoolingThievesFishAi.customServerAiStep(AbstractSchoolingThievesFishAi.java:64) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.animal.Wildsplash.method_5958(Wildsplash.java:76) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/net.minecraft.class_1308.method_6023(class_1308.java:821) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1309.method_6007(class_1309.java:2870) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1308.method_6007(class_1308.java:575) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1422.method_6007(class_1422.java:134) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1309.method_5773(class_1309.java:2606) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1308.method_5773(class_1308.java:366) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1425.method_5773(class_1425.java:75) ~[server-intermediary.jar:?]
+	at knot/com.stevekung.fishofthieves.entity.AbstractSchoolingThievesFish.method_5773(AbstractSchoolingThievesFish.java:134) ~[fish_of_thieves-mc1.21.4-v4.1.2-fabric.jar:?]
+	at knot/net.minecraft.class_3218.method_18762(class_3218.java:762) ~[server-intermediary.jar:?]
+	at knot/com.axalotl.async.common.ParallelProcessor.performAsyncEntityTick(ParallelProcessor.java:142) ~[async-fabric-0.1.7+alpha.7-1.21.4.jar:?]
+	at knot/com.axalotl.async.common.ParallelProcessor.lambda$callEntityTick$3(ParallelProcessor.java:84) ~[async-fabric-0.1.7+alpha.7-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	... 6 more

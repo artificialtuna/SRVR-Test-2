@@ -1,0 +1,739 @@
+{
+  "better_sleep:root": {
+    "criteria": {
+      "install_the_better_sleep_datapack": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/small/timer": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "sklps:tree/traveling": {
+    "criteria": {
+      "start_tracking": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "sklps:tree/cutting": {
+    "criteria": {
+      "start_tracking": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/big/timer": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/altar/tick": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "bojos_api:root": {
+    "criteria": {
+      "install_any_datapack_made_by_bodebojo": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "mt:player_load": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "better_sleep:no_sleep": {
+    "criteria": {
+      "install_the_better_sleep_datapack": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "sklps:tree/digging": {
+    "criteria": {
+      "start_tracking": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "jodek:mob_heads": {
+    "criteria": {
+      "tick": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "phy_xpc:functional/mainxpcrystals": {
+    "criteria": {
+      "unlockcrystal": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/step_height/timer": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "sklps:tree/mining": {
+    "criteria": {
+      "start_tracking": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/light/timer": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/store_deaths_initial": {
+    "criteria": {
+      "s": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "jodek:mobs": {
+    "criteria": {
+      "tick": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/sonic_bow/tick": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "better_sleep:sleep_notifier": {
+    "criteria": {
+      "install_the_better_sleep_datapack": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-12-20 04:03:51 +0000"
+    },
+    "done": false
+  },
+  "sklps:root": {
+    "criteria": {
+      "start_tracking": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "phyton:main": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "sklps:tree/farming": {
+    "criteria": {
+      "start_tracking": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/thunder_harpoon/tick": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "mt:player_update_": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/reach/timer": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2025-12-20 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:load": {
+    "criteria": {
+      "requirement": "2025-12-20 04:03:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "forested_field": "2025-12-20 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "ketket_furnitures:adv_main": {
+    "criteria": {
+      "requirement": "2025-12-20 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "ketkets:main": {
+    "criteria": {
+      "requirement": "2025-12-20 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/charm/timer": {
+    "criteria": {
+      "requirement": "2025-12-20 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "mt:armor/fully_refined": {
+    "criteria": {
+      "requirement": "2025-12-20 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "mt:armor/mountain_leggings": {
+    "criteria": {
+      "requirement": "2025-12-20 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "ketket_signs:bhs_adv": {
+    "criteria": {
+      "requirement": "2025-12-20 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "forested_field": "2025-12-20 04:04:00 +0000",
+      "field": "2025-12-20 04:07:15 +0000",
+      "maple_woods": "2025-12-20 04:07:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2025-12-20 04:08:42 +0000",
+      "minecraft:river": "2025-12-20 04:07:46 +0000",
+      "minecraft:stony_shore": "2025-12-20 04:08:02 +0000"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/ocean": {
+    "criteria": {
+      "requirement": "2025-12-20 04:08:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "advancement_overload:soul_collector": {
+    "criteria": {
+      "soul_collector_0": "2025-12-20 04:16:37 +0000"
+    },
+    "done": false
+  },
+  "mcwbiomesoplenty:recipes/fir_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/red_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/orange_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/cypress_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/cherry": {
+    "criteria": {
+      "has_cherry": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/flowering_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "m_trader_revamp:inventory_changed": {
+    "criteria": {
+      "requirement": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/snowblossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/yellow_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/pale_oak": {
+    "criteria": {
+      "has_pale_oak": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_fences": {
+    "criteria": {
+      "has_acacia": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-12-20 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-12-20 06:10:49 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_wood": "2025-12-20 06:10:49 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_wood": "2025-12-20 06:10:49 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_wood": "2025-12-20 06:10:49 +0000"
+    },
+    "done": true
+  },
+  "sklps:tree/traveling/traveled_101": {
+    "criteria": {
+      "traveled": "2025-12-20 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-12-20 07:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-12-20 07:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-12-20 07:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-12-20 07:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-12-20 07:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-12-20 07:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-12-23 04:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-12-23 04:26:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-12-23 04:26:18 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check": {
+    "criteria": {
+      "killed_mob": "2025-12-23 04:26:18 +0000"
+    },
+    "done": true
+  },
+  "sklps:tree/traveling/traveled_400": {
+    "criteria": {
+      "traveled": "2025-12-23 04:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-12-23 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}
